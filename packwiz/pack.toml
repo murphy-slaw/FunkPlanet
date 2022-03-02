@@ -1,0 +1,13 @@
+name = "Client Mods"
+author = "Kevin Murphy"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "758ee4814fbc5ed4bac063e9fb322bd03ddb368d9d9d529eaf8504caa36a1cdc"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.1"

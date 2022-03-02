@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "4a45496d6a0cd4cd445e300791af4473587864d20024d8c1bd032e763c36b698"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "56371e0a7b084daf096af668da39a182ad5f9261aa339138f5a53bbece9be8d0"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "32f86897ed44b041a79f0f90246ac35b400a427f7c206140007b6a9939a225b5"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "c94fbad1b3dd7973d2b0f33b03b4683875a0f95ffe0db3be4c90a946a29bb353"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.toml"
+hash = "681d760c8ffa635855ea1dbf52f80571d8964f7743a268ae49379147510a349c"
+metafile = true
+
+[[files]]
+file = "mods/iris.toml"
+hash = "f5f2860059ab91478fa3be83da7afd4be60f7fc3462ea2714240a8363c12ec5d"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.toml"
+hash = "38be56bf71e26717931af746e592a2194d9793f6d9326b3b650783992e50a0f4"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "d0cf8f6847a6c3f18010788f1068b98abb0ebca06536d2f482dc51d834a31308"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "f53ac074b0938319dc0ff805692993a9941beea49c3e86d7e0a42c3db1e64243"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "4e0d26b8af24dbc7220b2708ab13ad9cf6646442e3ebccc6ceebdef152345656"
+metafile = true
+
+[[files]]
+file = "mods/malilib.toml"
+hash = "fb0f052a0ca1141cc44dc17a503298c1e7caf88b63416908251e3367e72c7ef8"
+metafile = true
+
+[[files]]
+file = "mods/minihud.toml"
+hash = "74b003ba681af96e0a5a2fdf098a14f797fe3c7238b677f62dcf394577e38f15"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "e6f678c40b2bd652cc0b440d77f819719c4a4752511acf7a4be98cc07f392d43"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "2596e24c9628deed17d06612380d11a9e0d861476c6b3ceff1604017205b7063"
+metafile = true
+
+[[files]]
+file = "mods/simple-utilities.toml"
+hash = "c6f2ac93593d4d23b68eea6bac5a65784677bb4f4799b44f04e8b6d5f7774e6b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "f291cfa3dc4468318494015a4d695f66a22356355aa0122b2fbb7c1407ffdde0"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "86eb288d2bb2a2a49e64b1e7db4ca6a5f486b30a3566feaeeba1aa0a618ae255"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "4cc6f69fe0a72181be88a001fb0e5b996026c9fcb968e42547f6b8f3c06ed710"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "6c3e91ec40a8523e5e25f285435b2031900aa5275a519755f0e0d4e6c2508df6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "3387843633739f2242e29e3186f3387be92bcf63674574955caa96e94bd308fe"
+metafile = true

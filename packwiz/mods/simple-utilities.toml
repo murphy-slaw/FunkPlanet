@@ -1,0 +1,13 @@
+name = "Simple HUD Utilities"
+filename = "simple-hud-utilities-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3526/22/simple-hud-utilities-2.3.0.jar"
+hash-format = "sha1"
+hash = "c152752c5526046d159dd04e1c551b444b396374"
+
+[update]
+[update.curseforge]
+file-id = 3526022
+project-id = 356722
