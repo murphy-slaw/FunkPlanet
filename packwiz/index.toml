@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "56371e0a7b084daf096af668da39a182ad5f9261aa339138f5a53bbece9be8d0"
+hash = "d09e22b6960590df5462182e20545907bd89ae1f55ae48dfb1134ba5588572ba"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "681d760c8ffa635855ea1dbf52f80571d8964f7743a268ae49379147510a349c"
+hash = "80152ae31fcd6bd3cb0e6e69ba099b07030b331b6f727e3df0421e77ae42b39c"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.toml"
-hash = "38be56bf71e26717931af746e592a2194d9793f6d9326b3b650783992e50a0f4"
+hash = "26d8195479171930b6ec8980f4c05991f62409bac4bdfc465fc78ff026a5473f"
 metafile = true
 
 [[files]]
@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "fb0f052a0ca1141cc44dc17a503298c1e7caf88b63416908251e3367e72c7ef8"
+hash = "48d7d8ddf473e8877ac11527859219badc30e0e9732200100ef206bc7d08cb65"
 metafile = true
 
 [[files]]
 file = "mods/minihud.toml"
-hash = "74b003ba681af96e0a5a2fdf098a14f797fe3c7238b677f62dcf394577e38f15"
+hash = "edaa49a145c832fcb83ec0b8556852c330e925f4bedae1b9baf4e067a20709d5"
 metafile = true
 
 [[files]]
