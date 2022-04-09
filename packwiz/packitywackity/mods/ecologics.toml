@@ -1,0 +1,13 @@
+name = "Ecologics"
+filename = "ecologics-FABRIC-1.18.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3698/710/ecologics-FABRIC-1.18.1-1.3.0.jar"
+hash-format = "sha1"
+hash = "b24e965dfdcbbc6c51e7ed0f75b22088dad28907"
+
+[update]
+[update.curseforge]
+file-id = 3698710
+project-id = 570463

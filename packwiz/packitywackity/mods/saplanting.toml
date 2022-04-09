@@ -1,0 +1,13 @@
+name = "Saplanting"
+filename = "saplanting-fabric-1.18-1.1-alpha-3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3661/949/saplanting-fabric-1.18-1.1-alpha-3.jar"
+hash-format = "sha1"
+hash = "ec37943d2be24715264578ab317b4df71cfc6d68"
+
+[update]
+[update.curseforge]
+file-id = 3661949
+project-id = 576864

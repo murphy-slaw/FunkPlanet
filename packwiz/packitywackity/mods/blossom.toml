@@ -1,0 +1,13 @@
+name = "Blossom"
+filename = "blossom-1.18.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3656/286/blossom-1.18.1-1.0.3.jar"
+hash-format = "sha1"
+hash = "5bb7aeb4672dadff79c1dd3f17190ecad0247619"
+
+[update]
+[update.curseforge]
+file-id = 3656286
+project-id = 575248

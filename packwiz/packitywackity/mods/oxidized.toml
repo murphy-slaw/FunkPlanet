@@ -1,0 +1,13 @@
+name = "Oxidized"
+filename = "oxidized-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3648/534/oxidized-1.6.1.jar"
+hash-format = "sha1"
+hash = "79d6f7a69d820df654e244e793de1720c04bd797"
+
+[update]
+[update.curseforge]
+file-id = 3648534
+project-id = 506426

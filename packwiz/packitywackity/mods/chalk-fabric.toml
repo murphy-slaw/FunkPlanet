@@ -1,0 +1,13 @@
+name = "Chalk (Fabric)"
+filename = "chalk-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3654/662/chalk-1.2.2.jar"
+hash-format = "sha1"
+hash = "8529fe4007e27548ac55b5155feedc481286f4fd"
+
+[update]
+[update.curseforge]
+file-id = 3654662
+project-id = 535541

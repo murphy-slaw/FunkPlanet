@@ -1,0 +1,13 @@
+name = "Mbembe"
+filename = "mbembe-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3668/736/mbembe-1.0.3.jar"
+hash-format = "sha1"
+hash = "62124fa0393db076b8b0858808effb5bb9915200"
+
+[update]
+[update.curseforge]
+file-id = 3668736
+project-id = 572867

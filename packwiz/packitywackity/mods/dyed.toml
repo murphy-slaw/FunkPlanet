@@ -1,0 +1,13 @@
+name = "Dyed"
+filename = "dyed-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3669/825/dyed-1.18.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "4f62199392c1126237a1201d329b349be925a1cf"
+
+[update]
+[update.curseforge]
+file-id = 3669825
+project-id = 577468

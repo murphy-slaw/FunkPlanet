@@ -1,0 +1,13 @@
+name = "Creeper Overhaul"
+filename = "creeperoverhaul-1.18.1-0.3.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3627/416/creeperoverhaul-1.18.1-0.3.0-fabric.jar"
+hash-format = "sha1"
+hash = "6bc1e970e836ba5056c3f0145bf2c6afdc2e9c50"
+
+[update]
+[update.curseforge]
+file-id = 3627416
+project-id = 561625
