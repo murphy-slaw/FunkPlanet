@@ -1,0 +1,13 @@
+name = "Funk Planet Server Mods"
+author = "Kevin Murphy"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e9a9cb7acaf28a1ec2ca4f58c1731f04808edd12b789e9108bf75394777451d1"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"

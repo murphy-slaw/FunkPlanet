@@ -1,0 +1,35 @@
+{
+  "minecraft": {
+    "version": "1.18.2",
+    "modLoaders": [
+      {
+        "id": "fabric-0.13.3",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Funk Planet Server Mods",
+  "version": "1.0.0",
+  "author": "Kevin Murphy",
+  "projectID": 0,
+  "files": [
+    {
+      "projectID": 306612,
+      "fileID": 3689020,
+      "required": true
+    },
+    {
+      "projectID": 391378,
+      "fileID": 3709097,
+      "required": true
+    },
+    {
+      "projectID": 565956,
+      "fileID": 3704221,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}

@@ -1,0 +1,40 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "7d40bcc67b4a6c0e1e6e0d0d586ac506834c8df3e906e3a029c39836d5ef2821"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.toml"
+hash = "67641b350c12c6d47745040efc09bc63776893de2e1de4ea1fd1a6583ee6aa3f"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.toml"
+hash = "b8a105311e500a19cf80317a3f5542c7c41205376f585a53a3c0a7e094841671"
+metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
