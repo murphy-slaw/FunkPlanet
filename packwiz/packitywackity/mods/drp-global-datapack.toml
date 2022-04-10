@@ -1,0 +1,13 @@
+name = "Global Data- & Resourcepacks"
+filename = "Global Data-  Resourcepacks-fabric-1.18.1-1.11.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3622/296/Global%20Data-%20%20Resourcepacks-fabric-1.18.1-1.11.3.jar"
+hash-format = "sha1"
+hash = "907a472a823820849655aa5c2334cbc4b5acd370"
+
+[update]
+[update.curseforge]
+file-id = 3622296
+project-id = 317134
