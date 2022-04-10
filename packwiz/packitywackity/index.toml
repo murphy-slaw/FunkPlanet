@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "global_packs/required_data/novillagedatapack-1.18.zip"
+hash = "828e53765588b0131e7ad5d534b1a71680bc64c52f834c8d587f9d8b75072c1e"
+
+[[files]]
 file = "mods/animal-feeding-trough.toml"
 hash = "2b37f90ea82d32198540a6870b9e5bed334265ae55277c2b4b1916b794d87aa3"
 metafile = true
