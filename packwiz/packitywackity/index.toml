@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/awesome-dungeon-fabric.toml"
-hash = "91c74aa85849606c99251a3c387f15bfc0c47e408217cbc8633f191d7a43a1a6"
+hash = "459a8b0978d655dc78552fcd780a81ba839839e8412ff51e910c842762e3f90c"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/llamarama.toml"
-hash = "b6e9e1086bddca34ff4403844b6eb20a9f9377d4a01bc17033a98a3205262fdf"
+hash = "5931754f44ea9d2d5a339154ce6a088c3da1cc9ac2e8926aaf36e1a2dda6e1fa"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/mo-structures.toml"
-hash = "a3d291eed5bbd18b2142a77b8b88a7457da3c3ca4207b6d7a0b80af71a64b3c2"
+hash = "b7e8b3c60482a0fd616ea9251d7733e40bf2cf758fdf51647878d45965c1b57f"
 metafile = true
 
 [[files]]
