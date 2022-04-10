@@ -329,3 +329,8 @@ metafile = true
 file = "mods/yungs-better-strongholds-fabric.toml"
 hash = "97cc0733bcedd16b3397b38253d2a9959240b5c6893ea023cf3f478d1d6903cc"
 metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.toml"
+hash = "3a4c3c4f5dcee03d0d851ac14e5f2529440b7d705c48ca9328feb030c08083a1"
+metafile = true
