@@ -196,11 +196,6 @@ hash = "5a5c6174eda3db8594761efaf64308c44702b3f2a25957b0c35825b0109a1ef0"
 metafile = true
 
 [[files]]
-file = "mods/llamarama.toml"
-hash = "5931754f44ea9d2d5a339154ce6a088c3da1cc9ac2e8926aaf36e1a2dda6e1fa"
-metafile = true
-
-[[files]]
 file = "mods/lovely-snails.toml"
 hash = "25a6331fb5fe863a7237e7a526c1b662f38f36fc452d3027b0c99eff558372bf"
 metafile = true
