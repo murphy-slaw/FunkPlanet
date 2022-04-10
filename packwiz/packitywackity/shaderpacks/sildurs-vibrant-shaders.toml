@@ -3,7 +3,7 @@ filename = "Sildur's+Vibrant+Shaders+v1.32+Lite.zip"
 side = "client"
 
 [download]
-url = https://www.curseforge.com/minecraft/customization/sildurs-vibrant-shaders/download/3590070/file
+url = "https://www.curseforge.com/minecraft/customization/sildurs-vibrant-shaders/download/3590070/file"
 
 hash-format = "md5"
 hash = "ccedf8f59aa1d75e80e558c2afb721d0"
