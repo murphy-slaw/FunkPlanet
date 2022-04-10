@@ -5,5 +5,5 @@ side = "client"
 [download]
 url = "https://edge.forgecdn.net/files/3590/70/Sildur's%20Vibrant%20Shaders%20v1.32%20Lite.zip"
 
-hash-format = "md5"
-hash = "ccedf8f59aa1d75e80e558c2afb721d0"
+hash-format = "sha256"
+hash = "c4f18cbb248d3b792fc902c21495a420b20f24a221bce44d98d49fdcabad387c"
