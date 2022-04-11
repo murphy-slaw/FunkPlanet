@@ -212,6 +212,11 @@ hash = "312f53cb358c5f861d1eca8db621fdf13439d93c50f0a73957df9fa4e777682a"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.toml"
+hash = "d469405ae3ba7e17c6603477e0c444914e48932ffca884f630b9ee459ffe0039"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret-fabric.toml"
 hash = "1d0db07c687b79db09de7e55bdeadbb9c256a6f3855e1a67ea75b6d2555a44e5"
 metafile = true
