@@ -207,6 +207,11 @@ hash = "2244918fa6352bfcbad0a917dc57bc1cf584fa0a24d3b6edb15723ee480095b7"
 metafile = true
 
 [[files]]
+file = "mods/item-scroller.toml"
+hash = "26d8195479171930b6ec8980f4c05991f62409bac4bdfc465fc78ff026a5473f"
+metafile = true
+
+[[files]]
 file = "mods/konkrete-fabric.toml"
 hash = "312f53cb358c5f861d1eca8db621fdf13439d93c50f0a73957df9fa4e777682a"
 metafile = true
@@ -229,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/lovely-snails.toml"
 hash = "25a6331fb5fe863a7237e7a526c1b662f38f36fc452d3027b0c99eff558372bf"
+metafile = true
+
+[[files]]
+file = "mods/malilib.toml"
+hash = "48d7d8ddf473e8877ac11527859219badc30e0e9732200100ef206bc7d08cb65"
 metafile = true
 
 [[files]]
