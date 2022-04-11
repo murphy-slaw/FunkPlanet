@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/endemic.json"
+hash = "7a89791ea2161f12ccde7a038262bb052a735db0b30ded667175cf04a93dfed5"
+
+[[files]]
+file = "config/mostructures-config-v3.json5"
+hash = "be8b94b3fc413c54350946122d22d51b0261196234bda0275ea450316488b9ac"
+
+[[files]]
+file = "config/oxidized_config.json"
+hash = "16479cc1b25062b77ae8fbe46e8bbde901461866d44e9da9d0bad3d923396621"
+
+[[files]]
 file = "global_packs/required_data/novillagedatapack-1.18.zip"
 hash = "828e53765588b0131e7ad5d534b1a71680bc64c52f834c8d587f9d8b75072c1e"
 
@@ -37,6 +49,11 @@ metafile = true
 [[files]]
 file = "mods/awesome-dungeon-fabric.toml"
 hash = "459a8b0978d655dc78552fcd780a81ba839839e8412ff51e910c842762e3f90c"
+metafile = true
+
+[[files]]
+file = "mods/biome-makeover.toml"
+hash = "6408b51d2ec71c8afdf7a9c66ec02d9bf1830241461d13425729ee749ff13c82"
 metafile = true
 
 [[files]]
@@ -255,11 +272,6 @@ hash = "20964b26eab74875fcb0c0fd1e9b3b5c0ec91c6933e2f97cc7d47a4a36d4790c"
 metafile = true
 
 [[files]]
-file = "mods/rats-mischief.toml"
-hash = "2b0825e99b71b094c01edb520323c887a55f46ac171547ef8f8a68cac505c7c9"
-metafile = true
-
-[[files]]
 file = "mods/replanter.toml"
 hash = "9581846f803c8ab8a981572bc607fbd3f4fd128c39729897f3616b7de6db7efa"
 metafile = true
@@ -272,6 +284,11 @@ metafile = true
 [[files]]
 file = "mods/saplanting.toml"
 hash = "0b03bff8a26e038945e6a34abc0d87a74efd148f7f1d3e52e2048199064bf4af"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.toml"
+hash = "211beaf63d3e68db103fd36807c17df58755141e786d7240a968a6c8b796ebca"
 metafile = true
 
 [[files]]
@@ -335,8 +352,23 @@ hash = "7d92bb60636cb53106e4c8215817ecf99d34df5cb6e73151e235b2da55bc98d3"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-mineshafts-fabric.toml"
+hash = "7ab0d7b5c45aff2de3107a92e10f429200dc35a731a4e84fa848b789ace23d32"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-strongholds-fabric.toml"
 hash = "97cc0733bcedd16b3397b38253d2a9959240b5c6893ea023cf3f478d1d6903cc"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges-fabric.toml"
+hash = "5507e27b8e019818ed41bddef080f6522ff4f3f1ed393ae3b9259edc77629a8c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras-fabric.toml"
+hash = "a90c4bf86047991af40233f3f3e83febb56a7ed6c9edd2ae92dc8985522b3586"
 metafile = true
 
 [[files]]
