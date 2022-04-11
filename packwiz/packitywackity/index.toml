@@ -312,6 +312,11 @@ hash = "cf7aeeb3e29bcd83af34db5e957946f869db78149a85c6bb31d46a3605963d85"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.toml"
+hash = "57279a8ae2d7c6e5053da3909d95254118db533d9a38c1a0763bf602d80c933d"
+metafile = true
+
+[[files]]
 file = "mods/trinket-of-undying-fabric.toml"
 hash = "3d1313ecd9fb1544750f456be404f01c4d4569882a0dff6d1df17d8db4ffe251"
 metafile = true
