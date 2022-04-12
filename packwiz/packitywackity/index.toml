@@ -52,6 +52,16 @@ hash = "459a8b0978d655dc78552fcd780a81ba839839e8412ff51e910c842762e3f90c"
 metafile = true
 
 [[files]]
+file = "mods/bclib.toml"
+hash = "e5b324b97b6ab94193977e71980f5028fb42f23256dd8d62747835283b6b6af4"
+metafile = true
+
+[[files]]
+file = "mods/betternether.toml"
+hash = "41a490dc1381077e87f03ede4ffa09427a31d7cd65b1afcbcb666df2b27d3253"
+metafile = true
+
+[[files]]
 file = "mods/biome-makeover.toml"
 hash = "6408b51d2ec71c8afdf7a9c66ec02d9bf1830241461d13425729ee749ff13c82"
 metafile = true
@@ -259,6 +269,11 @@ metafile = true
 [[files]]
 file = "mods/no-null-processors.toml"
 hash = "35c3b3bed1ba22511a149757103c84480c9cd61574c23821a86d9dc6ced61003"
+metafile = true
+
+[[files]]
+file = "mods/nullscape-end-reborn.toml"
+hash = "267cd4461bdf924670b71649b39ee083dd4daa869e2ce712095c9056878175ee"
 metafile = true
 
 [[files]]
