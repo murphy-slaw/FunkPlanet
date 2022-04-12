@@ -1,0 +1,13 @@
+name = "Neutral Animals"
+filename = "neutral-animals-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3600/867/neutral-animals-1.2.0.jar"
+hash-format = "sha1"
+hash = "1e7fb77c93ea3c843b8d35409c3c691fe75aa1c8"
+
+[update]
+[update.curseforge]
+file-id = 3600867
+project-id = 486981
