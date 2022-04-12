@@ -107,6 +107,11 @@ hash = "117d3b8e05c3501e7be0b596806e7a3e941dff84e57ba02cb6798aabbf0843b1"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator.toml"
+hash = "b759c470db5417dc9af74b2350f5f8ad68b1a8b7d6ce1a455fe56069472b8e71"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
@@ -147,6 +152,11 @@ hash = "951bf9dde3502f431cd73fdf4061fc74fdda3aa402d42ee2f09c315799f56da8"
 metafile = true
 
 [[files]]
+file = "mods/dynmapforge.toml"
+hash = "ce26182f8734f4b01fb856fbda24662ff9879077159df96f0c879ba6c4ed76b6"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.toml"
 hash = "9c8ac762112df3c4597838b221ccbc47b9b6e69dd74292cb6d4fdc3d3620927f"
 metafile = true
@@ -164,6 +174,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-disable-custom-worlds-advice.toml"
 hash = "82733c41aecfeec2c0769a362763ca71f11c474711561b28eaaee935f0a23857"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "2c283319aebf853500c3057142e54ce91ae50170a161de46489a266f57f46f63"
 metafile = true
 
 [[files]]
@@ -267,6 +282,11 @@ hash = "ab1840d2be415015730c4c80db109d7a8585a7b8dfe31d0ae966e473abf21838"
 metafile = true
 
 [[files]]
+file = "mods/neutral-animals.toml"
+hash = "ef29ef9cb12cf9f365ee726c7a023f6cf787e29eeae898e3eeedb4208b9fcf45"
+metafile = true
+
+[[files]]
 file = "mods/no-null-processors.toml"
 hash = "35c3b3bed1ba22511a149757103c84480c9cd61574c23821a86d9dc6ced61003"
 metafile = true
@@ -314,6 +334,11 @@ metafile = true
 [[files]]
 file = "mods/saplanting.toml"
 hash = "0b03bff8a26e038945e6a34abc0d87a74efd148f7f1d3e52e2048199064bf4af"
+metafile = true
+
+[[files]]
+file = "mods/servercore.toml"
+hash = "2012a74c4dd834051b6323a9b5ebdb829a645b2dd5645ab33dd3614846e8a7b4"
 metafile = true
 
 [[files]]
