@@ -242,6 +242,11 @@ hash = "312f53cb358c5f861d1eca8db621fdf13439d93c50f0a73957df9fa4e777682a"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "834895d40b3b4d9d5322dbecad1ca880455dacd92e621ed647b812b5fd3224fe"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.toml"
 hash = "d469405ae3ba7e17c6603477e0c444914e48932ffca884f630b9ee459ffe0039"
 metafile = true
