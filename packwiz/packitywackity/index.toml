@@ -332,6 +332,11 @@ hash = "aee07fab9ca9fead1484dc9db1f02fb5bc2b42cee60fee584af64e64d45e5d43"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "00f084981a6f7164e2033f92a33f8bafe7ef97b77f30a6dbdb9cd6b0b0859a0c"
+metafile = true
+
+[[files]]
 file = "mods/saplanting.toml"
 hash = "0b03bff8a26e038945e6a34abc0d87a74efd148f7f1d3e52e2048199064bf4af"
 metafile = true
