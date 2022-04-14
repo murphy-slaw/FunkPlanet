@@ -47,6 +47,11 @@ hash = "459a8b0978d655dc78552fcd780a81ba839839e8412ff51e910c842762e3f90c"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment.toml"
+hash = "678a673f58b9a66dafd419ded809bc637d97cc44727a5a0dd9ee032ec629018d"
+metafile = true
+
+[[files]]
 file = "mods/biome-makeover.toml"
 hash = "6408b51d2ec71c8afdf7a9c66ec02d9bf1830241461d13425729ee749ff13c82"
 metafile = true
@@ -292,6 +297,11 @@ hash = "6aed362ea2b470af55c5a0346dded38bf07d398b71fde101b0effa7e30e50983"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.toml"
+hash = "51ae8cf51d2645daa792675b89be4fbe4fc375f47726293092d7039294d61d52"
+metafile = true
+
+[[files]]
 file = "mods/oxidized.toml"
 hash = "fcb2f39a90941729ba672290091927c9287517d64c15b75e2fae0ea6ce17d56c"
 metafile = true
@@ -299,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli-fabric.toml"
 hash = "de83c79e0a715b835f82583a02933a7342b2bc68cd23007ec9cf501ede81a84f"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.toml"
+hash = "c26384eb1b09788b8fa52e964fc18b1c637f7082af45aabb19b698fc268b0746"
 metafile = true
 
 [[files]]
@@ -349,6 +364,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "4aba93a705eb2c6300818297bc1d85329b9b085392810dbf15c79b5e3dd6d0ef"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.toml"
+hash = "03dac4549bd6475fadb8404440d09a6620fa8054bf3a45b59aa4a685bf4cdb3a"
 metafile = true
 
 [[files]]

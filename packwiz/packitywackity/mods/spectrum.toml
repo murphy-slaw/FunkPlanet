@@ -1,0 +1,13 @@
+name = "Spectrum"
+filename = "spectrum-1.2.16-1.18.1-midgame16-trinkets-brewing.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3750/385/spectrum-1.2.16-1.18.1-midgame16-trinkets-brewing.jar"
+hash-format = "sha1"
+hash = "367dc1a7531a778791feecad25200b76cc82b49b"
+
+[update]
+[update.curseforge]
+file-id = 3750385
+project-id = 556967
