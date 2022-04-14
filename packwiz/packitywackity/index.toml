@@ -32,11 +32,6 @@ hash = "24597ed5da62da4985ee5b0ffe665e5bddd328f60fcebdb488b69ff3e081992a"
 metafile = true
 
 [[files]]
-file = "mods/ars-nouveau.toml"
-hash = "934d8cbee1111bb1d79bcb1c25ae9241cb3814a406b694b31e656e0a60588b79"
-metafile = true
-
-[[files]]
 file = "mods/artifacts-fabric.toml"
 hash = "6f71fd9c67f4d4c5b0e6e47694042ddd1625434768b5be566a52d8fda05437f3"
 metafile = true
