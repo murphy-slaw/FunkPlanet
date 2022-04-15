@@ -217,8 +217,18 @@ hash = "6b930ae71b10d9cb6e27d48f5cd42433641c04fb3a7e13f9f2d44d2e60daed2c"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.toml"
+hash = "8383c3bcc4563a51175eb8a529d989be4546c92dc86319b287e9d4774fbb39de"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.toml"
 hash = "2244918fa6352bfcbad0a917dc57bc1cf584fa0a24d3b6edb15723ee480095b7"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.toml"
+hash = "26d8195479171930b6ec8980f4c05991f62409bac4bdfc465fc78ff026a5473f"
 metafile = true
 
 [[files]]
@@ -264,11 +274,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "e6f678c40b2bd652cc0b440d77f819719c4a4752511acf7a4be98cc07f392d43"
-metafile = true
-
-[[files]]
-file = "mods/mouse-tweaks.toml"
-hash = "aedc5ae67f87faec902a00135de9b7b2b15f0689223ee484c3ddbf80d3882479"
 metafile = true
 
 [[files]]
