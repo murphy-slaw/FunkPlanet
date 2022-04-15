@@ -1,0 +1,13 @@
+name = "Panoramica [Fabric]"
+filename = "panoramica_fabric_1.1.2-1_MC_1.18-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3608/527/panoramica_fabric_1.1.2-1_MC_1.18-1.18.1.jar"
+hash-format = "sha1"
+hash = "fe0e20bbe9efe8aeb459279c08ff4bbc2b0ca178"
+
+[update]
+[update.curseforge]
+file-id = 3608527
+project-id = 561509
