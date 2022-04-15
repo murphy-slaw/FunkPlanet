@@ -312,6 +312,11 @@ hash = "fcb2f39a90941729ba672290091927c9287517d64c15b75e2fae0ea6ce17d56c"
 metafile = true
 
 [[files]]
+file = "mods/panoramica-fabric.toml"
+hash = "7bf0db2d759d683708f350b574042af9576ca2c3dd3619b0a4d7edb90d47346c"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-fabric.toml"
 hash = "de83c79e0a715b835f82583a02933a7342b2bc68cd23007ec9cf501ede81a84f"
 metafile = true
