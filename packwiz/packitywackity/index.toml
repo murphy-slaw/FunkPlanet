@@ -202,6 +202,11 @@ hash = "8d7622f19e93a5aa921e795c7818962912b548e3bac40d625298f5f45532ab22"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port-fabric.toml"
+hash = "e238243a0546790505cc18fe071211b9cae3207d53b29483e46e484600e3bdad"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.toml"
 hash = "8a65edb74189de88ee8dc08cbe4812231e8572ae93ff09f85fe29779c3059aa6"
 metafile = true
@@ -332,6 +337,11 @@ hash = "c934c8b8e04e998107849b3aba4b27652749e23654c03590536f3f57b2076ff6"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib-fabric.toml"
+hash = "18cf4e4692064bca45ad2f12f2b5e14c863331b64d9711449023159bd1c5552d"
+metafile = true
+
+[[files]]
 file = "mods/raised.toml"
 hash = "20964b26eab74875fcb0c0fd1e9b3b5c0ec91c6933e2f97cc7d47a4a36d4790c"
 metafile = true
@@ -384,6 +394,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "25004bfaed5d36459fe6c6f7486794338e8b632679f5dd02c3624b961bcf9b9f"
+metafile = true
+
+[[files]]
+file = "mods/stylish-effects-fabric.toml"
+hash = "1aad7ed5536348336600b801d0c8058164e11c2e4b88e78609b60a32c503f871"
 metafile = true
 
 [[files]]
