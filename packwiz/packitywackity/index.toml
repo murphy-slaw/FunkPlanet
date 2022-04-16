@@ -247,6 +247,11 @@ hash = "834895d40b3b4d9d5322dbecad1ca880455dacd92e621ed647b812b5fd3224fe"
 metafile = true
 
 [[files]]
+file = "mods/lapis-reserve.toml"
+hash = "0b58695e4b822134deb0249d1ff81186446d1c92056ee8d9c4e27e3360ce371d"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.toml"
 hash = "d469405ae3ba7e17c6603477e0c444914e48932ffca884f630b9ee459ffe0039"
 metafile = true
