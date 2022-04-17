@@ -127,6 +127,11 @@ hash = "886df4aa074ab15cff6835be5bdf0ee7d465efcb654ceeb9317769179a4ce46d"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.toml"
+hash = "a6bd295330e16716d7ce62249c88e10f1d608982ed2d477f0592c6afa38f2290"
+metafile = true
+
+[[files]]
 file = "mods/dimension-fix-some-forge-patches-ported.toml"
 hash = "a06fd1c52c9fbb9944f4ce645a55880cf593e981180c1d63b77e4f667c590bdc"
 metafile = true
