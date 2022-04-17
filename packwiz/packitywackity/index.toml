@@ -102,6 +102,11 @@ hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]
+file = "mods/collective-fabric.toml"
+hash = "a9b361789fc8693e171d1c33ec07785995f610436b9bf70c21cd5fb334306b2b"
+metafile = true
+
+[[files]]
 file = "mods/comforts-fabric.toml"
 hash = "442ad77e64151541036ddad6d3da299500c092539961bccdf64b970d2f63cb5d"
 metafile = true
@@ -389,6 +394,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "25004bfaed5d36459fe6c6f7486794338e8b632679f5dd02c3624b961bcf9b9f"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit-fabric.toml"
+hash = "55306a73537bc1948d9df7bf494955fa91728f4eb60691a54170de771e5b9af5"
 metafile = true
 
 [[files]]
