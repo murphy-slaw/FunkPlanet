@@ -47,11 +47,6 @@ hash = "459a8b0978d655dc78552fcd780a81ba839839e8412ff51e910c842762e3f90c"
 metafile = true
 
 [[files]]
-file = "mods/bewitchment.toml"
-hash = "678a673f58b9a66dafd419ded809bc637d97cc44727a5a0dd9ee032ec629018d"
-metafile = true
-
-[[files]]
 file = "mods/biome-makeover.toml"
 hash = "6408b51d2ec71c8afdf7a9c66ec02d9bf1830241461d13425729ee749ff13c82"
 metafile = true
@@ -389,11 +384,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "4aba93a705eb2c6300818297bc1d85329b9b085392810dbf15c79b5e3dd6d0ef"
-metafile = true
-
-[[files]]
-file = "mods/spectrum.toml"
-hash = "03dac4549bd6475fadb8404440d09a6620fa8054bf3a45b59aa4a685bf4cdb3a"
 metafile = true
 
 [[files]]
