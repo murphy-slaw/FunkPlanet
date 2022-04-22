@@ -1,0 +1,13 @@
+name = "Detail Armor Bar [Fabric]"
+filename = "DetailArmorBar-2.6.1+1.18-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3543/237/DetailArmorBar-2.6.1+1.18-fabric.jar"
+hash-format = "sha1"
+hash = "2cdfc2d2b24b8b2f73286c4c8c2e8672f160aae1"
+
+[update]
+[update.curseforge]
+file-id = 3543237
+project-id = 506898

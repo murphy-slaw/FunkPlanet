@@ -127,6 +127,11 @@ hash = "a6bd295330e16716d7ce62249c88e10f1d608982ed2d477f0592c6afa38f2290"
 metafile = true
 
 [[files]]
+file = "mods/detail-armor-bar.toml"
+hash = "94d7477ca13935ab49dbf7d861955d63bef64509420fdc8744b1726a4764a185"
+metafile = true
+
+[[files]]
 file = "mods/dimension-fix-some-forge-patches-ported.toml"
 hash = "a06fd1c52c9fbb9944f4ce645a55880cf593e981180c1d63b77e4f667c590bdc"
 metafile = true
