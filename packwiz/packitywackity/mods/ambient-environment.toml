@@ -1,0 +1,13 @@
+name = "Ambient Environment"
+filename = "AmbientEnvironment-fabric-1.18.1-7.0+17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3616/315/AmbientEnvironment-fabric-1.18.1-7.0+17.jar"
+hash-format = "sha1"
+hash = "52549fe36224898fde87b9d249502b253a76e41e"
+
+[update]
+[update.curseforge]
+file-id = 3616315
+project-id = 320163

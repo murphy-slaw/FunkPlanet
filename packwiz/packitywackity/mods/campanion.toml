@@ -1,0 +1,13 @@
+name = "Campanion"
+filename = "campanion-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3613/521/campanion-3.0.2.jar"
+hash-format = "sha1"
+hash = "eef3a252883f888c76eaa3ba22c0a5c959049e36"
+
+[update]
+[update.curseforge]
+file-id = 3613521
+project-id = 373138

@@ -17,6 +17,11 @@ file = "global_packs/required_data/novillagedatapack-1.18.zip"
 hash = "828e53765588b0131e7ad5d534b1a71680bc64c52f834c8d587f9d8b75072c1e"
 
 [[files]]
+file = "mods/ambient-environment.toml"
+hash = "c0fab5893583eaca7a363f9499f84baf9fb585ac7efccffb055c1d1f8c41b3f6"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "bd22e94334b57cb037c7afe8e214199690ebb30959852492a492dd79a6a2e221"
 metafile = true
@@ -54,6 +59,11 @@ metafile = true
 [[files]]
 file = "mods/break-progress.toml"
 hash = "5b4946f8e93d8bfd892ba143172193f1c7471cd5f42815892d64ce554b60ea84"
+metafile = true
+
+[[files]]
+file = "mods/campanion.toml"
+hash = "ea8a00dfcd7e61e246464e6e425f94e944dd0bb0005e7e9cda4afe629caca9ed"
 metafile = true
 
 [[files]]
@@ -107,6 +117,11 @@ hash = "c64ecdf2decf5898efc6f1a99cf843f81ed2391020336d93228f95b529d8ef34"
 metafile = true
 
 [[files]]
+file = "mods/couplings.toml"
+hash = "4128591cf6f35dce8c576d03781b3bc540ea6053b216fb6f80627310c7498422"
+metafile = true
+
+[[files]]
 file = "mods/crawl.toml"
 hash = "371b16bffac004de43b50ddca0f9bd052c75d220193bb4f320a2c9384274d444"
 metafile = true
@@ -119,6 +134,11 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.toml"
 hash = "a6bd295330e16716d7ce62249c88e10f1d608982ed2d477f0592c6afa38f2290"
+metafile = true
+
+[[files]]
+file = "mods/dehydration.toml"
+hash = "7b85a6fa35cd4b4cc28aaff0ded2a131fef4304bab161c5304fda19c5054c568"
 metafile = true
 
 [[files]]
@@ -159,6 +179,11 @@ metafile = true
 [[files]]
 file = "mods/endemic.toml"
 hash = "bbedd3434a524b051f4cc3440fd510fb358fbd404d33bf8a14b44810b2960e59"
+metafile = true
+
+[[files]]
+file = "mods/environmentz.toml"
+hash = "ae0e37c742b4010f44d451f085bde54a764d7f22520f54e2dc8b8ca349af4f88"
 metafile = true
 
 [[files]]
@@ -284,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "e6f678c40b2bd652cc0b440d77f819719c4a4752511acf7a4be98cc07f392d43"
+metafile = true
+
+[[files]]
+file = "mods/motschens-puddles.toml"
+hash = "c0648e173fe6f742f259fe071d7bbcf6b6b88183c8ae3fb3ef110cf1524c3d89"
 metafile = true
 
 [[files]]
