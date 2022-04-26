@@ -1,13 +1,13 @@
 name = "Raised"
-filename = "raised-fabric-1.18.2-1.0.6.jar"
+filename = "raised-fabric-1.18.2-1.0.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3736/899/raised-fabric-1.18.2-1.0.6.jar"
+url = "https://edge.forgecdn.net/files/3757/729/raised-fabric-1.18.2-1.0.7.jar"
 hash-format = "sha1"
-hash = "91f75b43eba8012ac6434739786a7ad04fa55db7"
+hash = "eea920d7ad4b144fda01550a5b4f50700ae0138e"
 
 [update]
 [update.curseforge]
-file-id = 3736899
+file-id = 3757729
 project-id = 570368
