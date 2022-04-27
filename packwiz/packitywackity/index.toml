@@ -137,11 +137,6 @@ hash = "a6bd295330e16716d7ce62249c88e10f1d608982ed2d477f0592c6afa38f2290"
 metafile = true
 
 [[files]]
-file = "mods/dehydration.toml"
-hash = "7b85a6fa35cd4b4cc28aaff0ded2a131fef4304bab161c5304fda19c5054c568"
-metafile = true
-
-[[files]]
 file = "mods/detail-armor-bar.toml"
 hash = "94d7477ca13935ab49dbf7d861955d63bef64509420fdc8744b1726a4764a185"
 metafile = true
@@ -179,11 +174,6 @@ metafile = true
 [[files]]
 file = "mods/endemic.toml"
 hash = "bbedd3434a524b051f4cc3440fd510fb358fbd404d33bf8a14b44810b2960e59"
-metafile = true
-
-[[files]]
-file = "mods/environmentz.toml"
-hash = "ae0e37c742b4010f44d451f085bde54a764d7f22520f54e2dc8b8ca349af4f88"
 metafile = true
 
 [[files]]
@@ -309,11 +299,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "e6f678c40b2bd652cc0b440d77f819719c4a4752511acf7a4be98cc07f392d43"
-metafile = true
-
-[[files]]
-file = "mods/motschens-puddles.toml"
-hash = "c0648e173fe6f742f259fe071d7bbcf6b6b88183c8ae3fb3ef110cf1524c3d89"
 metafile = true
 
 [[files]]
