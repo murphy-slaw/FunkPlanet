@@ -317,6 +317,11 @@ hash = "35c3b3bed1ba22511a149757103c84480c9cd61574c23821a86d9dc6ced61003"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "3c059bb33cf8656273f189f53a7c05289c9f025f54e2936e9200ba1817093f5c"
+metafile = true
+
+[[files]]
 file = "mods/nullscape-end-reborn.toml"
 hash = "267cd4461bdf924670b71649b39ee083dd4daa869e2ce712095c9056878175ee"
 metafile = true
