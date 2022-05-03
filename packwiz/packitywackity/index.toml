@@ -333,11 +333,6 @@ hash = "92968ecdad91b20dfef8e39eb5c4ca17906e61ba6f56486ef1d0cfcf762ba262"
 metafile = true
 
 [[files]]
-file = "mods/drp-global-datapack.toml"
-hash = "2433f6a9b4a36751ce4fe275d25b214f271603756fdc707a8743aebf38c5f09a"
-metafile = true
-
-[[files]]
 file = "mods/dyed.toml"
 hash = "1d87916a0e6787dbde12425acc730a6a23222077ec3d57009fa3bc815552af50"
 metafile = true
@@ -525,6 +520,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli-fabric.toml"
 hash = "026c8a4b2389e587dc1c04467f1044d4fe514ece13edc8150120798f6d99fed3"
+metafile = true
+
+[[files]]
+file = "mods/paxi-fabric.toml"
+hash = "e91d14a362664545a26b48f004636bdef52c68d311bab72b0bfe03224ec61987"
 metafile = true
 
 [[files]]
