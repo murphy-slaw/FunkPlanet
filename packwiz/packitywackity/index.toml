@@ -74,7 +74,7 @@ hash = "ae90b4033b8e8cf949711e94e5d524852efadafdd100fa084fa4ab8745bde141"
 
 [[files]]
 file = "global_packs/required_data/No Villages/data/mostructures/worldgen/structure_set/villager_tower.json"
-hash = "2c075af64f0fa22a6d23a490aabaec4e377e3f122d5461bbb9b6db5e3944f2e9"
+hash = "e8d689c5cca894d2067522be1efb79954b3ac840aeed81bf98c67a523926abfd"
 
 [[files]]
 file = "global_packs/required_data/No Villages/data/mostructures/worldgen/structure_set/volcanic_vent.json"
@@ -127,6 +127,10 @@ hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 [[files]]
 file = "global_packs/required_data/To hell with flowers!/pack.mcmeta"
 hash = "304295c861ccc21ec292e6d92888d9cafdb6538e48f0b7bf49d7cdb93cee1f04"
+
+[[files]]
+file = "global_packs/required_resources/VanillaTweaks_r304129.zip"
+hash = "d17d82ef21842bb643292572662b8f174c41c83f91211c27492db97125e69eff"
 
 [[files]]
 file = "mods/ambient-environment.toml"
