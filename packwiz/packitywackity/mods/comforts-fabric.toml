@@ -1,13 +1,13 @@
 name = "Comforts (Fabric)"
-filename = "comforts-fabric-1.0.3-1.18.1.jar"
+filename = "comforts-fabric-1.1.2-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3681/443/comforts-fabric-1.0.3-1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3682/297/comforts-fabric-1.1.2-1.18.2.jar"
 hash-format = "sha1"
-hash = "a6314b3010e158d2ea6c8b806453b9100e9b7cdf"
+hash = "17a27e68d2f52005bd1c3ba7fe3cbb20798de573"
 
 [update]
 [update.curseforge]
-file-id = 3681443
+file-id = 3682297
 project-id = 433539

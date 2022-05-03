@@ -1,13 +1,13 @@
 name = "Dimension Fix (Some Forge Patches Ported)"
-filename = "someforgepatchesported-1.0.2.jar"
+filename = "someforgepatchesported-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3578/820/someforgepatchesported-1.0.2.jar"
+url = "https://edge.forgecdn.net/files/3734/912/someforgepatchesported-1.0.3.jar"
 hash-format = "sha1"
-hash = "faa83cff5b97e832f9f1b8599931cd1d5e17521a"
+hash = "89f4ae4076629e599365eda0bf0b7e71cdbcb2e8"
 
 [update]
 [update.curseforge]
-file-id = 3578820
+file-id = 3734912
 project-id = 437779

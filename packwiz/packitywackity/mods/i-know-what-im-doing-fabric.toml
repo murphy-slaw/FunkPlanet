@@ -1,0 +1,13 @@
+name = "I know what I'm doing! [FABRIC/FORGE]"
+filename = "IKWID_fabric-1.1+1.18.x.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3676/292/IKWID_fabric-1.1+1.18.x.jar"
+hash-format = "sha1"
+hash = "ee4c091986e922eaede386fff9151efcfbbc4e00"
+
+[update]
+[update.curseforge]
+file-id = 3676292
+project-id = 585980

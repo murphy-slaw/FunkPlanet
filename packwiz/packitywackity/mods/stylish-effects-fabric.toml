@@ -1,13 +1,13 @@
 name = "Stylish Effects [Fabric]"
-filename = "StylishEffects-v3.0.2-1.18.1-Fabric.jar"
+filename = "StylishEffects-v3.1.0-1.18.2-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3580/157/StylishEffects-v3.0.2-1.18.1-Fabric.jar"
+url = "https://edge.forgecdn.net/files/3671/296/StylishEffects-v3.1.0-1.18.2-Fabric.jar"
 hash-format = "sha1"
-hash = "eed1ee15df600adf831fadacc0934d3a65ed3768"
+hash = "adb12e54de2a7f7d42dcc57597c23d4db1b09d04"
 
 [update]
 [update.curseforge]
-file-id = 3580157
+file-id = 3671296
 project-id = 548518

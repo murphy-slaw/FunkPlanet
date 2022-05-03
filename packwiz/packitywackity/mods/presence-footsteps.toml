@@ -1,13 +1,13 @@
 name = "Presence Footsteps [Fabric]"
-filename = "PresenceFootsteps-1.4.0.jar"
+filename = "PresenceFootsteps-1.5.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3551/598/PresenceFootsteps-1.4.0.jar"
+url = "https://edge.forgecdn.net/files/3671/978/PresenceFootsteps-1.5.0.jar"
 hash-format = "sha1"
-hash = "9de4458abefaaebfdeadde8b1216f9a939a9fc87"
+hash = "fc13b79c51f1afa9cdc455d3c74d52bae1e02cf1"
 
 [update]
 [update.curseforge]
-file-id = 3551598
+file-id = 3671978
 project-id = 334259

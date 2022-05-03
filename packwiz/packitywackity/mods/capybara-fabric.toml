@@ -1,13 +1,13 @@
 name = "Capybara [Fabric]"
-filename = "capybara-1.18-1.0.1.jar"
+filename = "capybara-1.18-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3591/830/capybara-1.18-1.0.1.jar"
+url = "https://edge.forgecdn.net/files/3771/670/capybara-1.18-1.0.4.jar"
 hash-format = "sha1"
-hash = "d75cd3848ba4e105f1b0b0902687a5bcd4d0c0e7"
+hash = "1dc0533caca5292adf7368fe9b66e115389366ec"
 
 [update]
 [update.curseforge]
-file-id = 3591830
+file-id = 3771670
 project-id = 549031

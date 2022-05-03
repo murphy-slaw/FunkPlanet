@@ -1,13 +1,13 @@
 name = "Chirpy's Wildlife"
-filename = "wildlife-1.18-1.0.jar"
+filename = "wildlife-1.18.2-1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3625/183/wildlife-1.18-1.0.jar"
+url = "https://edge.forgecdn.net/files/3695/863/wildlife-1.18.2-1.0.jar"
 hash-format = "sha1"
-hash = "b1c11f5260c24dcf513692a17e05c2a683f749ef"
+hash = "1837a98df4d09dabb380a8b133096d948d107bad"
 
 [update]
 [update.curseforge]
-file-id = 3625183
+file-id = 3695863
 project-id = 568457

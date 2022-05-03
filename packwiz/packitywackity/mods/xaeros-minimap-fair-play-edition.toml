@@ -1,13 +1,13 @@
 name = "Xaero's Minimap (Fair-play Edition)"
-filename = "Xaeros_Minimap_FP22.2.0.1_Fabric_1.18.jar"
+filename = "Xaeros_Minimap_FP22.6.1_Fabric_1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3651/693/Xaeros_Minimap_FP22.2.0.1_Fabric_1.18.jar"
+url = "https://edge.forgecdn.net/files/3767/342/Xaeros_Minimap_FP22.6.1_Fabric_1.18.2.jar"
 hash-format = "sha1"
-hash = "bedbf909c9fe55018f6e263d0206a10c00397d8d"
+hash = "0b7238001af11b4a12b9e6cf469820d9bef33ff7"
 
 [update]
 [update.curseforge]
-file-id = 3651693
+file-id = 3767342
 project-id = 263466

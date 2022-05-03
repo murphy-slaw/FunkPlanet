@@ -1,13 +1,13 @@
 name = "Endemic"
-filename = "endemic-1.18.1-1.2.0.jar"
+filename = "endemic-1.18.2-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3629/663/endemic-1.18.1-1.2.0.jar"
+url = "https://edge.forgecdn.net/files/3670/241/endemic-1.18.2-1.2.1.jar"
 hash-format = "sha1"
-hash = "47287ead0178e04fe1ba8ef8be4407b7a4ea238d"
+hash = "542d2e9f89ccb75483dbcc1124205fb18828c623"
 
 [update]
 [update.curseforge]
-file-id = 3629663
+file-id = 3670241
 project-id = 571153
