@@ -584,6 +584,10 @@ hash = "5ffcf0294b22212a582689ac14582724c9db20461639fe7175766b3319d49f6b"
 metafile = true
 
 [[files]]
+file = "shaderpacks/complementary-shaders.toml"
+hash = "b35e2003bb3ba88476214b236cf8c6fe1ec9e91e229ee2c1dced71aaffcd96e8"
+
+[[files]]
 file = "shaderpacks/sildurs-vibrant-shaders.toml"
 hash = "a9c974533a764da7f86ff7bda7c0743c5365a92ae78bd7b9c4097093b3de2d76"
 metafile = true
