@@ -189,6 +189,10 @@ file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/conf
 hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
 [[files]]
+file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/configured_feature/flower_warm.json"
+hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
+
+[[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/configured_feature/forest_flower_vegetation.json"
 hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
@@ -512,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/i-know-what-im-doing-fabric.toml"
 hash = "388338abe32cff2b10e21030b9bb983bbee3584ceae6f810d67764ae4843c503"
+metafile = true
+
+[[files]]
+file = "mods/incendium.toml"
+hash = "6dbe600e847b1f126e5d88567c97d7f323e7dad7153ad795a3a4a9a327ecfc3d"
 metafile = true
 
 [[files]]
