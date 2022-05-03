@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "mostructures:ice_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 26,
+    "separation": 16,
+    "salt": 964058305
+  }
+}
