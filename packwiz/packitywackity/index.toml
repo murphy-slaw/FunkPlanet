@@ -165,8 +165,8 @@ file = "config/paxi/datapacks/No Villages/pack.mcmeta"
 hash = "f5e111ffc39a64c7e0cb2287ed4acc90e08a52a81950a7b11e16b19cebd6a6e0"
 
 [[files]]
-file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/dimension/overworld.json"
-hash = "f51d0d5856c97677f7152779ba56f058ec804d04ba3b5ade1459c4a364cf79ad"
+file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/biome/flower_forest.json"
+hash = "e0b3e41de31bc3310dacb7978b5070d51e013e6d8c737b6a82c818a375898478"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/configured_feature/flower_default.json"
