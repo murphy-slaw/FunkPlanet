@@ -1,0 +1,69 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = meaty_time
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = element
+  orientation_element = vanillabtn:400286
+  x = 0
+  action = movebutton
+  y = 23
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = element
+  orientation_element = vanillabtn:400310
+  x = 0
+  action = movebutton
+  y = 23
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -26
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = element
+  orientation_element = vanillabtn:400358
+  x = 0
+  action = movebutton
+  y = 23
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = element
+  orientation_element = vanillabtn:400394
+  x = 102
+  action = movebutton
+  y = 0
+}
+
