@@ -1,0 +1,13 @@
+name = "Hedgehogs (Fabric)"
+filename = "hedgehog-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3735/940/hedgehog-1.18.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "e8060059e46096cfa2d2fab9eaf02dde1f8270a4"
+
+[update]
+[update.curseforge]
+file-id = 3735940
+project-id = 573406
