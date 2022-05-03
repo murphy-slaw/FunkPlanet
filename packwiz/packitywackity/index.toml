@@ -413,6 +413,11 @@ hash = "20c77d22beceb7d0329ea8f5cb7a651cc5b9c6aac82ce6029f39e366dbf2a8ee"
 metafile = true
 
 [[files]]
+file = "mods/hedgehogs-fabric.toml"
+hash = "0bc97489c788fc332b13e3631e215478fb5a0b4eaa0335f36f9d0ad84186d877"
+metafile = true
+
+[[files]]
 file = "mods/i-know-what-im-doing-fabric.toml"
 hash = "388338abe32cff2b10e21030b9bb983bbee3584ceae6f810d67764ae4843c503"
 metafile = true
