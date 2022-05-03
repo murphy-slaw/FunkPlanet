@@ -5,12 +5,92 @@ file = "config/endemic.json"
 hash = "7a89791ea2161f12ccde7a038262bb052a735db0b30ded667175cf04a93dfed5"
 
 [[files]]
-file = "config/mostructures-config-v3.json5"
-hash = "be8b94b3fc413c54350946122d22d51b0261196234bda0275ea450316488b9ac"
+file = "config/fancymenu/config.txt"
+hash = "a5a32dabf2d5fd66194e0651b5e36f5be4611a074d61ebd2085b0e384b1ac464"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "27ef05176d3fbee0beafc7141da42ffc150450b4633ea338929d710aaafbe26a"
+
+[[files]]
+file = "config/fancymenu/customization/boop.txt"
+hash = "07579c6ef1c18c5d6d0bdaa2a7bdba6c620d2074488a311dee01b684a37557d7"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "5f4c0cf9633b6c481dd4d0cb745a5fa23b824e8cd9c464fb6e5746464959f542"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "82ee4c2444f37d9f011b7b945df1f05026e9910f6c02cf900a3b5e17871a81f3"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "f1c00a3c0fb7846f8aaf0b8e3f30368b9092352731ebbeb86b02bcdcd2f66abc"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/panoramas/1650007580770/panorama/panorama_0.png"
+hash = "ce1743eb1eac301fab0b2c940aa13a0b3734a3c3aab64ac3b431b3d598a611a0"
+
+[[files]]
+file = "config/fancymenu/panoramas/1650007580770/panorama/panorama_1.png"
+hash = "9ef14594bfc6868de5dd64dbcb1626cae150ff51f68ea4ee11077799e04b8f13"
+
+[[files]]
+file = "config/fancymenu/panoramas/1650007580770/panorama/panorama_2.png"
+hash = "36b4607750e5e832690a48d8a2259609eb7733fbae778c618a07883a395c95a2"
+
+[[files]]
+file = "config/fancymenu/panoramas/1650007580770/panorama/panorama_3.png"
+hash = "e6e8818388bd6df86b9ae8abb81a3e61a09f003953ca1700207f62970e359a7a"
+
+[[files]]
+file = "config/fancymenu/panoramas/1650007580770/panorama/panorama_4.png"
+hash = "ed497065db49ce839ffa82318d38f4d0a7e4a83b6c0d611e36b1586f953ea9fd"
+
+[[files]]
+file = "config/fancymenu/panoramas/1650007580770/panorama/panorama_5.png"
+hash = "229a2caea3f36f9b5a950e17f17f04ba58e60650b21ddb2ebc6635ffaaa07c9d"
+
+[[files]]
+file = "config/fancymenu/panoramas/1650007580770/properties.txt"
+hash = "0c9ee764a0738464f7720477f71c8af5606dc240339cbb4b989761381e6d031d"
+
+[[files]]
+file = "config/lambdabettergrass.toml"
+hash = "fd73b8edf77327fdb0e69506f6845c1477a26636107c2ece16ed8a972a3bd4f4"
 
 [[files]]
 file = "config/oxidized_config.json"
 hash = "16479cc1b25062b77ae8fbe46e8bbde901461866d44e9da9d0bad3d923396621"
+
+[[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "3a0012fbfaec208c474c11f2ae68eecb81074870ddb29df510d42cd00b232176"
+
+[[files]]
+file = "config/stylisheffects-client.toml"
+hash = "92eb099f7b9dcedfb85f3ad1c2bb488c7c1a51a2c11708def6063de70b9ba5e2"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "b37c3c0ce7d8d173d9d4795a44f28c0ad515b7b75bde10e69e41e3e8f3c0fb26"
+
+[[files]]
+file = "config/yigd.toml"
+hash = "3f4af7efb43db5545ba286382dc837ccc727fec403b60e4d7bc63b8ff71e76f8"
 
 [[files]]
 file = "global_packs/required_data/No Villages/data/minecraft/worldgen/structure_set/villages.json"
