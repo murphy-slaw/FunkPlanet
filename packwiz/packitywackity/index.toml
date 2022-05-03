@@ -13,22 +13,6 @@ file = "config/oxidized_config.json"
 hash = "16479cc1b25062b77ae8fbe46e8bbde901461866d44e9da9d0bad3d923396621"
 
 [[files]]
-file = "config/repurposed_structures-fabric/biome_dimension_allow_disallow_configs.json5"
-hash = "d7443aa27616818ede5105f850b72a8e0376b5ea11ac10d8378d818d577eb72e"
-
-[[files]]
-file = "config/repurposed_structures-fabric/general_configs.json5"
-hash = "98fa9d88db65b4ea0f6c680768695ebcf32a2b2f7009f50e1b98e8296b211170"
-
-[[files]]
-file = "config/repurposed_structures-fabric/map_trade_configs.json5"
-hash = "e86657a24ba0b3c5b86c2ce4727f10b10995f5c20f3fcf18a1440f49205c19a9"
-
-[[files]]
-file = "config/repurposed_structures-fabric/natural_mob_spawning_configs.json5"
-hash = "57a87768f6108424026ecb20f33687cb36a66d3b166ebe3f8a1fcb6a6133057f"
-
-[[files]]
 file = "global_packs/required_data/No Villages/data/minecraft/worldgen/structure_set/villages.json"
 hash = "e7a370212f833d882b0674567b7a0046411b32e9cf4a3258ff280f9bff2d073a"
 
