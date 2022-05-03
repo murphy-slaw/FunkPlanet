@@ -330,6 +330,11 @@ hash = "4985898441d775d014ec0a1cfc69e9a1f92b01de5204f3c299951261bd182ea9"
 metafile = true
 
 [[files]]
+file = "mods/balm-fabric.toml"
+hash = "f16e09ced52586796952de5d6bf341b4ae079c1bed915612fb82c297bb0cb9e3"
+metafile = true
+
+[[files]]
 file = "mods/biome-makeover.toml"
 hash = "ec88263fecc41c1c4425670deec04725238cf91cb9c2b2310c25340071f6be32"
 metafile = true
@@ -712,6 +717,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets-fabric.toml"
 hash = "af45970ec75dccbb9b6a5f553e7aecbe5ab8c7f06e65abaffa679603c9af6240"
+metafile = true
+
+[[files]]
+file = "mods/waystones-fabric.toml"
+hash = "8706314b4da0684186fe130ee4a979666bcc8df30c44ee33e41fc522c0caf65e"
 metafile = true
 
 [[files]]
