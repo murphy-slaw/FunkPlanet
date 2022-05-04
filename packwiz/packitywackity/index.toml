@@ -302,7 +302,7 @@ hash = "f3dacfc4fc8337c2e9921e58a1102c2e25306ec06af6318de518df28d4751888"
 
 [[files]]
 file = "config/paxi/datapacks/el_vumbus/data/worldgen/template_pool/el_vumbus.json"
-hash = "9f1be8ca1c6ff943a80ddba5d54ef0dab2bacf8f6f8242603488cdf3faa936a5"
+hash = "da224071c37cef3ff1e16f77519cc13d90098b50f9deb5a50bc3950a4a5c662e"
 
 [[files]]
 file = "config/paxi/datapacks/el_vumbus/pack.mcmeta"
