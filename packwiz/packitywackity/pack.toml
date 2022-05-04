@@ -1,6 +1,6 @@
 name = "Packitywackity"
 author = "Kevin Murphy"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.0.0"
 
 [index]
