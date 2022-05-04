@@ -1,5 +1,5 @@
 {
-    "name": "el_vumbus:el_vumbus",
+    "name": "el_vumbus:vumbus",
     "fallback": "minecraft:empty",
     "elements": [
         {
@@ -7,7 +7,7 @@
             "element": {
                 "element_type": "minecraft:single_pool_element",
                 "location": "el_vumbus:el_vumbus",
-                "projection": "terrain_matching",
+                "projection": "rigid",
                 "processors": "minecraft:empty"
             }
         }

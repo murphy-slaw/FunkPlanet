@@ -1,7 +1,7 @@
 {
     "type":"minecraft:village",
     "config": {
-        "start_pool": "el_vumbus:el_vumbus",
+        "start_pool": "el_vumbus:vumbus",
         "size": 1
     },
     "biomes": "#minecraft:has_structure/mineshaft",
