@@ -297,11 +297,11 @@ file = "config/paxi/datapacks/el_vumbus/data/worldgen/configured_structure_featu
 hash = "130eb8e7943be7796714b645fefeb7b40aac6386ed24d4f69490b527f4c6ed04"
 
 [[files]]
-file = "config/paxi/datapacks/el_vumbus/data/worldgen/structure_set/el_vumbus.json"
+file = "config/paxi/datapacks/el_vumbus/data/worldgen/structure_set/vumbi.json"
 hash = "33d9f75ee02a4f967cb5179e77a11daf168c96b828b6081ba760d63066229386"
 
 [[files]]
-file = "config/paxi/datapacks/el_vumbus/data/worldgen/template_pool/el_vumbus.json"
+file = "config/paxi/datapacks/el_vumbus/data/worldgen/template_pool/vumbus.json"
 hash = "15f5fbc06fadb143510db6aa73007a15b686992d6a4755f513f612f19f303200"
 
 [[files]]
