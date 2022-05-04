@@ -270,7 +270,7 @@ hash = "a5f0b0b2571f49cc9e49c2ac6b215de5ba2cf26ffe308fdb7a0686efdf94708f"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/terralith/worldgen/configured_feature/highlands/tall_flowers.json"
-hash = "fc30c7f209c03a5e8445477a9fde1f05ab416781dec1d906c88d40a96d1f48f1"
+hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/terralith/worldgen/configured_feature/highlands/temperate/flowers.json"
@@ -549,6 +549,16 @@ hash = "312f53cb358c5f861d1eca8db621fdf13439d93c50f0a73957df9fa4e777682a"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-botania.toml"
+hash = "76d199790514b4b96c1c75adfbf1dd12c619888ecc0deb0023b59a5cf727a192"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.toml"
+hash = "851690e362c432d1a5dc3dba77daeda405251a935564fa831e1f06b0f3f10f7f"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.toml"
 hash = "4269b7e2a817dfd03ce2e43aca5b15b3dc96210a44b0c056d4712722063c5ce0"
 metafile = true
@@ -661,6 +671,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
 hash = "53e9d14b71148e5d19e33e8e6bdad5b275fdfb94c60b2ea73b181d14faf9a8b3"
+metafile = true
+
+[[files]]
+file = "mods/rhino.toml"
+hash = "60e343e928538a577ca751e223cf898eb02dddc38e3ec3fe5e25d737be6507d9"
 metafile = true
 
 [[files]]
