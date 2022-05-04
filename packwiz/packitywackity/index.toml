@@ -289,6 +289,26 @@ file = "config/paxi/datapacks/To hell with flowers!/pack.mcmeta"
 hash = "304295c861ccc21ec292e6d92888d9cafdb6538e48f0b7bf49d7cdb93cee1f04"
 
 [[files]]
+file = "config/paxi/datapacks/el_vumbus/data/worldgen/configured_structure_feature/el_vumbus.json"
+hash = "23cd8779b2e1d93f060aaa451485e72cd5277d67efefc8bf90baf2828a7ecb47"
+
+[[files]]
+file = "config/paxi/datapacks/el_vumbus/data/worldgen/structure_set/el_vumbus.json"
+hash = "33d9f75ee02a4f967cb5179e77a11daf168c96b828b6081ba760d63066229386"
+
+[[files]]
+file = "config/paxi/datapacks/el_vumbus/data/worldgen/structures/el_vumbus.nbt"
+hash = "f3dacfc4fc8337c2e9921e58a1102c2e25306ec06af6318de518df28d4751888"
+
+[[files]]
+file = "config/paxi/datapacks/el_vumbus/data/worldgen/template_pool/el_vumbus.json"
+hash = "9f1be8ca1c6ff943a80ddba5d54ef0dab2bacf8f6f8242603488cdf3faa936a5"
+
+[[files]]
+file = "config/paxi/datapacks/el_vumbus/pack.mcmeta"
+hash = "e136b1bdfb8f462700a7ac13e33e75304853b108c571cacd1c72a83e072ced44"
+
+[[files]]
 file = "config/paxi/resourcepacks/VanillaTweaks_r304129.zip"
 hash = "d17d82ef21842bb643292572662b8f174c41c83f91211c27492db97125e69eff"
 

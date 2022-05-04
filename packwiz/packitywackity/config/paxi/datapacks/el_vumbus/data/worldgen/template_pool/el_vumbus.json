@@ -1,0 +1,15 @@
+{
+    "name": "el_vumbus:el_vumbus",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "el_vumbus/structures/el_vumbus",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty"
+            }
+        }
+    ]
+}
