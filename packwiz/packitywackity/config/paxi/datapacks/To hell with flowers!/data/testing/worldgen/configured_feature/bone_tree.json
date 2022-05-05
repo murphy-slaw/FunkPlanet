@@ -35,6 +35,7 @@
             "base_height": 8,
             "height_rand_a": 3,
             "height_rand_b": 0,
+            "min_height_for_leaves": 7,
             "bend_length": {
                 "type": "minecraft:uniform",
                 "value": {
