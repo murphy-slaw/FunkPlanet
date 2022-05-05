@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": "testing:bone_tree",
+        "chance": 0.8
+      }
+    ],
+    "default": "minecraft:oak_checked"
+  }
+}
