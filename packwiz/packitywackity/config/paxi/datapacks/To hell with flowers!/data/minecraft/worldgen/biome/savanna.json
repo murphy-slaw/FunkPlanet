@@ -196,5 +196,6 @@
     "water_ambient": [],
     "misc": []
   },
-  "spawn_costs": {}
+  "spawn_costs": {},
+  "category": "savanna"
 }
