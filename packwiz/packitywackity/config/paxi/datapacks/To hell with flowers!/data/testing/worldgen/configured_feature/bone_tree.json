@@ -28,9 +28,9 @@
             "type": "minecraft:weighted_state_provider",
             "entries": [
                 {
-                    "weight": 1,
+                    "weight": 2,
                     "data": {
-                        "Name": "minecraft:warped_hyphae"
+                        "Name": "minecraft:honeycomb_block"
                     }
                 },
                 {
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "weight": 3,
+                    "weight": 4,
                     "data": {
                         "Name": "minecraft:dead_brain_coral_block"
                     }
