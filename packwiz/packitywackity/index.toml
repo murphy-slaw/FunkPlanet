@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".vscode/tasks.json"
-hash = "638588ebfa3b24172337ad78c45177c2806a935c8a58f5b6e778e068659b7967"
+hash = "762eb7c48e5cc1d00755768de5b6bba3252134216d23e758804484eb20e041d7"
 
 [[files]]
 file = "config/endemic.json"
@@ -290,7 +290,7 @@ hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/testing/worldgen/configured_feature/bone_tree.json"
-hash = "bde9728707f03c47df7cb4f005940543e77ab9903798c5ac28581f457122bbb4"
+hash = "a272b0fd5c9c2c07d2320d205c05302039b23fb0a5e13e617b3b012537c22536"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/testing/worldgen/placed_feature/bone_tree.json"

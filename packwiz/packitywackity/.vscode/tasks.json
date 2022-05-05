@@ -7,7 +7,11 @@
             "label": "packwiz",
             "type": "shell",
             "command": "packwiz.exe refresh",
-            "problemMatcher": []
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ]
 }
