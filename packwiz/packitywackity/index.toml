@@ -166,7 +166,7 @@ hash = "f5e111ffc39a64c7e0cb2287ed4acc90e08a52a81950a7b11e16b19cebd6a6e0"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/biome/flower_forest.json"
-hash = "e0b3e41de31bc3310dacb7978b5070d51e013e6d8c737b6a82c818a375898478"
+hash = "e3b87a4ea78d5df91233767c037eaf50c6b4711514f2664d01a296737fcf3012"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/configured_feature/flower_default.json"
@@ -283,6 +283,14 @@ hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/terralith/worldgen/configured_feature/taiga/lush/flowers.json"
 hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
+
+[[files]]
+file = "config/paxi/datapacks/To hell with flowers!/data/testing/worldgen/configured_feature/bone_tree.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/paxi/datapacks/To hell with flowers!/data/testing/worldgen/placed_feature/bone_tree.json"
+hash = "3679978c640ec3ebfc0378631d8de4dbf679a2d1229339bec22697a04732c1b8"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/pack.mcmeta"
