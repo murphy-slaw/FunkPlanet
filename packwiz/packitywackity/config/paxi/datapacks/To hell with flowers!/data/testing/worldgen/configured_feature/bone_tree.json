@@ -6,7 +6,7 @@
         "minimum_size": {
             "type": "minecraft:two_layers_feature_size",
             "limit": 3,
-            "lower_size": 2,
+            "lower_size": 4,
             "upper_size": 1
         },
         "dirt_provider": {
@@ -35,7 +35,7 @@
             "base_height": 8,
             "height_rand_a": 3,
             "height_rand_b": 0,
-            "min_height_for_leaves": 7,
+            "min_height_for_leaves": 10,
             "bend_length": {
                 "type": "minecraft:uniform",
                 "value": {
