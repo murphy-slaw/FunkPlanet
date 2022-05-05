@@ -391,6 +391,11 @@ hash = "3c2bdcf8a712300f69843e47199b3761ac67933f1428ad69923e49bcebc839d2"
 metafile = true
 
 [[files]]
+file = "mods/charmonium.toml"
+hash = "4bb3126bdc29991414a5c99a34c1e0b92796612c7f29f089e8e999021ae352dc"
+metafile = true
+
+[[files]]
 file = "mods/chirpys-wildlife.toml"
 hash = "697062dce8fbaec812b63e1cacfe4b292a07491516aca0c27f3ec591f2f23417"
 metafile = true
