@@ -289,7 +289,7 @@ file = "config/paxi/datapacks/To hell with flowers!/data/testing/worldgen/config
 hash = "12217dc7cc41b2f2bd7187c8232dd1e0108f88a68fc3b042d55d2ad4c6c9d254"
 
 [[files]]
-file = "config/paxi/datapacks/To hell with flowers!/data/testing/worldgen/placed_feature/bone_trees.json"
+file = "config/paxi/datapacks/To hell with flowers!/data/testing/worldgen/placed_feature/bone_tree.json"
 hash = "3679978c640ec3ebfc0378631d8de4dbf679a2d1229339bec22697a04732c1b8"
 
 [[files]]
