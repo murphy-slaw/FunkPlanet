@@ -5,8 +5,8 @@
         "force_dirt": false,
         "minimum_size": {
             "type": "minecraft:two_layers_feature_size",
-            "limit": 1,
-            "lower_size": 0,
+            "limit": 3,
+            "lower_size": 2,
             "upper_size": 1
         },
         "dirt_provider": {
@@ -35,22 +35,22 @@
             }
         },
         "trunk_placer": {
-            "type": "minecraft:forking_trunk_placer",
+            "type": "minecraft:bending_trunk_placer",
             "base_height": 5,
             "height_rand_a": 3,
-            "height_rand_b": 0
+            "height_rand_b": 0,
+            "bend_length": {
+                "type": "uniform",
+                "min_inclusive": 2,
+                "max_inclusive": 6
+            }
         },
         "foliage_placer": {
-            "type": "minecraft:random_spread_foliage_placer",
+            "type": "minecraft:fancy_foliage_placer",
             "radius": 3,
-            "offset": 0,
-            "foliage_height": 1,
-            "leaf_placement_attempts": 128
+            "offset": 1,
+            "height": 3
         },
-        "decorators": [
-            {
-                "type": "minecraft:trunk_vine"
-            }
-        ]
+        "decorators": []
     }
 }

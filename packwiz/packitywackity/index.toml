@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/tasks.json"
+hash = "638588ebfa3b24172337ad78c45177c2806a935c8a58f5b6e778e068659b7967"
+
+[[files]]
 file = "config/endemic.json"
 hash = "7a89791ea2161f12ccde7a038262bb052a735db0b30ded667175cf04a93dfed5"
 
@@ -206,7 +210,7 @@ hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/configured_feature/trees_savanna.json"
-hash = "237ef878d5a83f3d14537ceaf63c8a5c7fd600d46d47ba282825260816f87e55"
+hash = "7633e7687b886498c3d1f03da104c287cb473e6333544fa214acc0924f60fc26"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/terralith/worldgen/configured_feature/alpha/flowers.json"
@@ -286,7 +290,7 @@ hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/testing/worldgen/configured_feature/bone_tree.json"
-hash = "12217dc7cc41b2f2bd7187c8232dd1e0108f88a68fc3b042d55d2ad4c6c9d254"
+hash = "bde9728707f03c47df7cb4f005940543e77ab9903798c5ac28581f457122bbb4"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/testing/worldgen/placed_feature/bone_tree.json"
