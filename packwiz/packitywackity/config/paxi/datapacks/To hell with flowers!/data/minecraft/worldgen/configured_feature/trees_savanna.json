@@ -4,11 +4,11 @@
     "features": [
       {
         "feature": "testing:bone_tree",
-        "chance": 0.3
+        "chance": 0.1
       },
       {
         "feature": "minecraft:acacia_checked",
-        "chance": 0.6
+        "chance": 0.9
       }
     ],
     "default": "minecraft:oak_checked"

@@ -169,6 +169,10 @@ file = "config/paxi/datapacks/No Villages/pack.mcmeta"
 hash = "f5e111ffc39a64c7e0cb2287ed4acc90e08a52a81950a7b11e16b19cebd6a6e0"
 
 [[files]]
+file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/biome/savanna.json"
+hash = "87d1d71f62b2adf0c7d7d952283a265cb4d9d1e0e3c4add613975a214fa8ab40"
+
+[[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/configured_feature/flower_default.json"
 hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
@@ -210,7 +214,7 @@ hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/configured_feature/trees_savanna.json"
-hash = "7633e7687b886498c3d1f03da104c287cb473e6333544fa214acc0924f60fc26"
+hash = "c24958565af874365c701f24a43ce4d2834213d59a8128525f9cdf8ed5ca0717"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/terralith/worldgen/configured_feature/alpha/flowers.json"
@@ -290,7 +294,7 @@ hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/testing/worldgen/configured_feature/bone_tree.json"
-hash = "d3da90058c73b89a1257655d6cc7271d631560669fdc89ca425d6b52741db153"
+hash = "32e315a27d215cc056b341c75ea2aef086c0f9b8b3c5af9576943eb903d3be02"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/testing/worldgen/placed_feature/bone_tree.json"
