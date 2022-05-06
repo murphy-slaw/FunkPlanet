@@ -365,6 +365,11 @@ hash = "7343a4f5d33023c99487cc24a964d2a07a71d48b5b652194ebddffd72fbcf2a1"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.toml"
+hash = "35699e422fc8fc022cc0db1247ab573f5d4441cc87fa523ee88523b23841df4a"
+metafile = true
+
+[[files]]
 file = "mods/biome-makeover.toml"
 hash = "ec88263fecc41c1c4425670deec04725238cf91cb9c2b2310c25340071f6be32"
 metafile = true
