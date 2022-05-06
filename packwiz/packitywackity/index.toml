@@ -495,6 +495,11 @@ hash = "e503913002d2715ecb6d6bf57c121278bf5afd56b35a5dc18855276a64d4155d"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-block-entities.toml"
+hash = "5f96cbfa5842b2fa1977bed45bff4b2230a1608f34394ca75945fa65d8e555da"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.toml"
 hash = "c2ee93e74ad106f20b997ffb054f46189f941da0c37c73a1a97d5dd85ff530a5"
 metafile = true
