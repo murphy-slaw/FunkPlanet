@@ -217,6 +217,22 @@ file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/conf
 hash = "c24958565af874365c701f24a43ce4d2834213d59a8128525f9cdf8ed5ca0717"
 
 [[files]]
+file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/noise/continentalness.json"
+hash = "31e4245e73aa48090cbc0fe9ab18911459587f3f67e668c8c47fae5f838c445a"
+
+[[files]]
+file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/noise/erosion.json"
+hash = "7d88bf9460787588dbcea56a1e1d3c6de67e802dc142526777bf9a0a1a115f45"
+
+[[files]]
+file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/noise/temperature.json"
+hash = "7abd381620b283473fa12dcb7c4b098cfc42405b590d82e9862b4665b7957dfd"
+
+[[files]]
+file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/noise/vegetation.json"
+hash = "d1ae4dc8e0bea8ea0ab3d6a826121b97aa357d194a5777ebfa07c28a52d3bcb8"
+
+[[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/terralith/worldgen/configured_feature/alpha/flowers.json"
 hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
@@ -472,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/dimension-fix-some-forge-patches-ported.toml"
 hash = "92968ecdad91b20dfef8e39eb5c4ca17906e61ba6f56486ef1d0cfcf762ba262"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.toml"
+hash = "c8d5d583f5f4fe7a6d117eb1930c6fbb1f92f205a3426ab079426236f69ea1b1"
 metafile = true
 
 [[files]]
