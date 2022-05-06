@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "612eb5b02d9f18e9c5327bb96373c692c72c9ebbae3541eea03feda76dcd764a"
+hash = "cc31d30724f40c4168c01bbef66785cf2a614b8c6bc5ddaf0e362406dbe1842e"
 metafile = true
 
 [[files]]
@@ -491,11 +491,6 @@ hash = "92968ecdad91b20dfef8e39eb5c4ca17906e61ba6f56486ef1d0cfcf762ba262"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.toml"
-hash = "c8d5d583f5f4fe7a6d117eb1930c6fbb1f92f205a3426ab079426236f69ea1b1"
-metafile = true
-
-[[files]]
 file = "mods/dyed.toml"
 hash = "1d87916a0e6787dbde12425acc730a6a23222077ec3d57009fa3bc815552af50"
 metafile = true
@@ -607,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "92aefdfd457c3c13e5a583ed697289b0d84e0304e7af2a20c16e16813534efbb"
+hash = "ea62f375e536d1be74d226edf1ded621d079d267f97a65c801e0db9a7cf552c0"
 metafile = true
 
 [[files]]
@@ -632,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.toml"
-hash = "851690e362c432d1a5dc3dba77daeda405251a935564fa831e1f06b0f3f10f7f"
+hash = "f3e50769ad7c870c8983a860aa90cca78fafccd661effeb52ad190140be30c84"
 metafile = true
 
 [[files]]
@@ -672,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/mo-structures.toml"
-hash = "eb5a1ded35dbdd746d1e9d1808a1a74a18dc529d90e341ed3ce8651d420f4754"
+hash = "fe25905e270da545aaea6f16b998ccad1b031f1f7f8acd5982c56b682ba683e0"
 metafile = true
 
 [[files]]
@@ -697,12 +692,12 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.toml"
-hash = "2bb40ce3c988afa4b86b17777b0a25d4f8f61b606326efb11f30e3e10867e9c6"
+hash = "e39babb643a63c6011a03a98222be83caa3f7408033c5346fd8fb9a7e055ee08"
 metafile = true
 
 [[files]]
 file = "mods/oxidized.toml"
-hash = "34cca56b30b08981fd6a39767a63f6577d96f1444f1ef485c7d6aea862c49d0c"
+hash = "1ece1902e2f9c3ba30205222d6d6e38e7ee8f831894dd7dde0adba1549f3e2fd"
 metafile = true
 
 [[files]]
@@ -827,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "d73e60f34b8ae99c48e3daf99d3ceab49df778bb631ea88173dd6a7d001ebad2"
+hash = "f5276d848c4ad487529368d1e11c92252bb4745c9e74446d98896504337e0ac5"
 metafile = true
 
 [[files]]
@@ -842,12 +837,12 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.toml"
-hash = "e405be4ab943a36bff888114dd9b7acffe4b3e0c88dd366cf3abbb0ad820c1bc"
+hash = "d3ddc393b2736a5624bcbb51ed08e4d6fcf455bc9b58492f0ee3e64a3476f7a7"
 metafile = true
 
 [[files]]
 file = "mods/yungs-api-fabric.toml"
-hash = "06280dacd1f58693322fc4b8f9cc65b46d73a51043fc175b6989b00f26d7f3e4"
+hash = "83cbf868ae2dcd47190114b33904be6fe4d566a32d21047256388cacc688f71a"
 metafile = true
 
 [[files]]
@@ -857,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts-fabric.toml"
-hash = "6d72fe92f96af7ca4dfb82a852a69004ba8b13ab319eeb14fa4bdcf3590e10c3"
+hash = "cd3255946254add70b6a9372a22b1d975a91a270bcff1aaaef96b5171dee3ea1"
 metafile = true
 
 [[files]]

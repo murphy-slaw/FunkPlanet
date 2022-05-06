@@ -1,13 +1,13 @@
 name = "KubeJS"
-filename = "kubejs-fabric-1802.5.1-build.377.jar"
+filename = "kubejs-fabric-1802.5.1-build.386.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3778/642/kubejs-fabric-1802.5.1-build.377.jar"
+url = "https://edge.forgecdn.net/files/3781/836/kubejs-fabric-1802.5.1-build.386.jar"
 hash-format = "sha1"
-hash = "ef70376f79d9fff6408116f65f19851e44dbbdae"
+hash = "1759e9bf34874a2bcc124d7fa6c679bed1ba8d09"
 
 [update]
 [update.curseforge]
-file-id = 3778642
+file-id = 3781836
 project-id = 238086
