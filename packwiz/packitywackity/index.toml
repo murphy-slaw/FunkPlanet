@@ -455,6 +455,11 @@ hash = "1693ed6557e0cca26c2e523277d56a1887ede668c475cb9266d19b5371e6eb51"
 metafile = true
 
 [[files]]
+file = "mods/dashloader.toml"
+hash = "d1f9c38dd3b3fc673c32f232e72b177e4f5ce19d712593957518fcdd499791ca"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.toml"
 hash = "6a6b560b0f65925f29a2a1ece8c65cb664d687b4b43e1ef4fd1e6420f6f8bca0"
 metafile = true
@@ -532,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.toml"
 hash = "2949f4bfcdfea379f398581fe92f06e6866f001610cc2ef7fd6ba5e5d9ae497a"
+metafile = true
+
+[[files]]
+file = "mods/forgetmechunk.toml"
+hash = "06cb28b6ded5b429fda6f236758fa8787fde526f6b2fc83d2af085c642bcaacc"
 metafile = true
 
 [[files]]
