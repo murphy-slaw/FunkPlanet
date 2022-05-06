@@ -1,9 +1,14 @@
 {
-  "structures": [],
+  "structures": [
+    {
+      "structure": "mostructures:villager_tower",
+      "weight": 1
+    }
+  ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 32,
+    "spacing": 29,
     "separation": 16,
-    "salt": 550292492
+    "salt": 150292492
   }
 }
