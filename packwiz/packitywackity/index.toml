@@ -355,6 +355,16 @@ hash = "f16e09ced52586796952de5d6bf341b4ae079c1bed915612fb82c297bb0cb9e3"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.toml"
+hash = "a3b21b5516f3f17e58b1b156067cbea256f37bd20e8c1145785f537d78553c08"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance-fabric.toml"
+hash = "7343a4f5d33023c99487cc24a964d2a07a71d48b5b652194ebddffd72fbcf2a1"
+metafile = true
+
+[[files]]
 file = "mods/biome-makeover.toml"
 hash = "ec88263fecc41c1c4425670deec04725238cf91cb9c2b2310c25340071f6be32"
 metafile = true
@@ -477,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/endemic.toml"
 hash = "e503913002d2715ecb6d6bf57c121278bf5afd56b35a5dc18855276a64d4155d"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.toml"
+hash = "c2ee93e74ad106f20b997ffb054f46189f941da0c37c73a1a97d5dd85ff530a5"
 metafile = true
 
 [[files]]
