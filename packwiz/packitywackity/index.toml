@@ -432,11 +432,6 @@ hash = "1693ed6557e0cca26c2e523277d56a1887ede668c475cb9266d19b5371e6eb51"
 metafile = true
 
 [[files]]
-file = "mods/custom-entity-models-cem.toml"
-hash = "2c60cef285ee93b3188da4592b0067cb9d5dcd5ca8d1a9e70c0f2e25455ab7e1"
-metafile = true
-
-[[files]]
 file = "mods/dashloader.toml"
 hash = "d1f9c38dd3b3fc673c32f232e72b177e4f5ce19d712593957518fcdd499791ca"
 metafile = true
@@ -479,11 +474,6 @@ metafile = true
 [[files]]
 file = "mods/enhanced-block-entities.toml"
 hash = "5f96cbfa5842b2fa1977bed45bff4b2230a1608f34394ca75945fa65d8e555da"
-metafile = true
-
-[[files]]
-file = "mods/entity-texture-features-fabric.toml"
-hash = "6ca956cf088d3b149f90c438dad1d2b8c4f9905f58a9fbe5262106073e220ee6"
 metafile = true
 
 [[files]]
