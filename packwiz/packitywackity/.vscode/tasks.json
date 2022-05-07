@@ -8,10 +8,7 @@
             "type": "shell",
             "command": "packwiz.exe refresh",
             "problemMatcher": [],
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
+            "group": "build"
         }
     ]
 }
