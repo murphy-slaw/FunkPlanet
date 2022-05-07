@@ -1,10 +1,5 @@
 {
-  "structures": [
-    {
-      "structure": "mostructures:air_balloon",
-      "weight": 1
-    }
-  ],
+  "structures": [],
   "placement": {
     "type": "minecraft:random_spread",
     "spacing": 20,
