@@ -7,231 +7,44 @@
         "mobCapRange": 192
     },
     "biomeGroups": {
-        "deserts": [
-            "mesa",
-            "savanna",
-            "desert"
-        ],
-        "jungles": [
-            "jungles"
-        ],
-        "temperate": [
-            "plains",
-            "forest",
-            "mushroom"
-        ],
-        "shores": [
-            "beach",
-            "minecraft:stony_shore"
-        ],
-        "swamps": [
-            "swamp"
-        ],
-        "cold": [
-            "mountain",
-            "taiga",
-            "extreme_hills"
-        ],
-        "snowy": [
-            "mountain",
-            "icy"
-        ],
-        "mountains": [
-            "mountain",
-            "extreme_hills"
-        ],
-        "forests": [
-            "forest",
-            "mushroom",
-            "taiga"
-        ],
-        "warmForests": [
-            "forest",
-            "mushroom"
-        ],
-        "oldForests": [
-            "Old Growth Pine Taiga",
-            "Old Growth Spruce Taiga",
-            "Giant Tree Taiga Hills",
-            "Giant Spruce Taiga Hills",
-            "Giant Tree Taiga",
-            "Giant Spruce Taiga"
-        ]
+        "deserts": ["mesa", "savanna", "desert"],
+        "jungles": ["jungles"],
+        "temperate": ["plains", "forest", "mushroom"],
+        "shores": ["beach", "minecraft:stony_shore"],
+        "swamps": ["swamp"],
+        "cold": ["mountain", "taiga", "extreme_hills"],
+        "snowy": ["mountain", "icy"],
+        "mountains": ["mountain", "extreme_hills"],
+        "forests": ["forest", "mushroom", "taiga"],
+        "warmForests": ["forest", "mushroom"],
+        "oldForests": ["Old Growth Pine Taiga", "Old Growth Spruce Taiga", "Giant Tree Taiga Hills", "Giant Spruce Taiga Hills", "Giant Tree Taiga", "Giant Spruce Taiga"]
     },
     "itemGroups": {
-        "flowerItems": [
-            "sugar",
-            "dandelion",
-            "poppy",
-            "blue_orchid",
-            "allium",
-            "azure_bluet",
-            "red_tulip",
-            "orange_tulip",
-            "white_tulip",
-            "pink_tulip",
-            "oxeye_daisy",
-            "cornflower",
-            "lily_of_the_valley",
-            "lilac",
-            "rose_bush",
-            "peony",
-            "flowering_azalea_leaves"
-        ],
-        "grassItems": [
-            "hay",
-            "grass",
-            "fern",
-            "tall_grass",
-            "large_fern",
-            "bamboo"
-        ],
-        "leafItems": [
-            "oak_leaves",
-            "spruce_leaves",
-            "birch_leaves",
-            "jungle_leaves",
-            "acacia_leaves",
-            "dark_oak_leaves",
-            "azalea_leaves",
-            "flowering_azalea_leaves",
-            "lily_pad",
-            "small_dripleaf",
-            "big_dripleaf"
-        ],
-        "mushroomItems": [
-            "brown_mushroom",
-            "red_mushroom",
-            "crimson_fungus",
-            "warped_fungus"
-        ],
-        "rootItems": [
-            "cave_vines",
-            "vines",
-            "hanging_roots",
-            "glow_lichen",
-            "crimson_roots",
-            "warped_roots",
-            "nether_wart",
-            "cactus"
-        ],
-        "seedItems": [
-            "wheat_seeds",
-            "melon_seeds",
-            "pumpkin_seeds",
-            "beetroot_seeds",
-            "sweet_berries"
-        ],
-        "vegetableItems": [
-            "potato",
-            "carrot",
-            "beetroot"
-        ],
-        "fruitItems": [
-            "sweet_berries",
-            "melon_slice",
-            "apple",
-            "glow_berries"
-        ],
-        "seaweedItems": [
-            "seagrass",
-            "kelp",
-            "tall_seagrass"
-        ],
-        "fishItems": [
-            "salmon",
-            "cod",
-            "tropical_fish",
-            "pufferfish"
-        ],
-        "meatItems": [
-            "rabbit",
-            "chicken",
-            "mutton",
-            "beef",
-            "porkchop",
-            "egg"
-        ],
-        "insectItems": [
-            "wildlife:ant",
-            "wildlife:cricket",
-            "wildlife:dragonfly",
-            "wildlife:glasswing_butterfly",
-            "wildlife:monarch_butterfly",
-            "wildlife:tiger_butterfly",
-            "wildlife:spicebush_butterfly",
-            "wildlife:morpho_butterfly",
-            "wildlife:june_beetle",
-            "wildlife:ladybug",
-            "wildlife:rhino_beetle",
-            "wildlife:snail",
-            "wildlife:spider",
-            "wildlife:staghorn_beetle",
-            "wildlife:stickbug",
-            "wildlife:sunflower_beetle"
-        ],
-        "scavengerItems": [
-            "egg",
-            "rotten_flesh",
-            "spider_eye"
-        ]
+        "flowerItems": ["sugar", "dandelion", "poppy", "blue_orchid", "allium", "azure_bluet", "red_tulip", "orange_tulip", "white_tulip", "pink_tulip", "oxeye_daisy", "cornflower", "lily_of_the_valley", "lilac", "rose_bush", "peony", "flowering_azalea_leaves"],
+        "grassItems": ["hay", "grass", "fern", "tall_grass", "large_fern", "bamboo"],
+        "leafItems": ["oak_leaves", "spruce_leaves", "birch_leaves", "jungle_leaves", "acacia_leaves", "dark_oak_leaves", "azalea_leaves", "flowering_azalea_leaves", "lily_pad", "small_dripleaf", "big_dripleaf"],
+        "mushroomItems": ["brown_mushroom", "red_mushroom", "crimson_fungus", "warped_fungus"],
+        "rootItems": ["cave_vines", "vines", "hanging_roots", "glow_lichen", "crimson_roots", "warped_roots", "nether_wart", "cactus"],
+        "seedItems": ["wheat_seeds", "melon_seeds", "pumpkin_seeds", "beetroot_seeds", "sweet_berries"],
+        "vegetableItems": ["potato", "carrot", "beetroot"],
+        "fruitItems": ["sweet_berries", "melon_slice", "apple", "glow_berries"],
+        "seaweedItems": ["seagrass", "kelp", "tall_seagrass"],
+        "fishItems": ["salmon", "cod", "tropical_fish", "pufferfish"],
+        "meatItems": ["rabbit", "chicken", "mutton", "beef", "porkchop", "egg"],
+        "insectItems": ["wildlife:ant", "wildlife:cricket", "wildlife:dragonfly", "wildlife:glasswing_butterfly", "wildlife:monarch_butterfly", "wildlife:tiger_butterfly", "wildlife:spicebush_butterfly", "wildlife:morpho_butterfly", "wildlife:june_beetle", "wildlife:ladybug", "wildlife:rhino_beetle", "wildlife:snail", "wildlife:spider", "wildlife:staghorn_beetle", "wildlife:stickbug", "wildlife:sunflower_beetle"],
+        "scavengerItems": ["egg", "rotten_flesh", "spider_eye"]
     },
     "breedingItems": {
-        "nectar": [
-            "flowerItems",
-            "fruitItems"
-        ],
-        "leafyHerbivore": [
-            "grassItems",
-            "leafItems",
-            "flowerItems"
-        ],
-        "heartyHerbivore": [
-            "vegetableItems",
-            "fruitItems",
-            "mushroomItems"
-        ],
-        "herbivore": [
-            "grassItems",
-            "leafItems",
-            "flowerItems",
-            "vegetableItems",
-            "fruitItems",
-            "mushroomItems"
-        ],
-        "omnivore": [
-            "vegetableItems",
-            "fruitItems",
-            "mushroomItems",
-            "meatItems",
-            "scavengerItems"
-        ],
-        "carnivore": [
-            "meatItems",
-            "fishItems"
-        ],
-        "bird": [
-            "seedItems",
-            "insectItems"
-        ],
-        "bug": [
-            "grassItems",
-            "leafItems",
-            "flowerItems",
-            "rootItems"
-        ],
-        "scavenger": [
-            "scavengerItems",
-            "vegetableItems",
-            "fruitItems",
-            "mushroomItems"
-        ],
-        "oceanScavenger": [
-            "seaweedItems",
-            "scavengerItems",
-            "fishItems",
-            "vegetableItems"
-        ]
+        "nectar": ["flowerItems", "fruitItems"],
+        "leafyHerbivore": ["grassItems", "leafItems", "flowerItems"],
+        "heartyHerbivore": ["vegetableItems", "fruitItems", "mushroomItems"],
+        "herbivore": ["grassItems", "leafItems", "flowerItems", "vegetableItems", "fruitItems", "mushroomItems"],
+        "omnivore": ["vegetableItems", "fruitItems", "mushroomItems", "meatItems", "scavengerItems"],
+        "carnivore": ["meatItems", "fishItems"],
+        "bird": ["seedItems", "insectItems"],
+        "bug": ["grassItems", "leafItems", "flowerItems", "rootItems"],
+        "scavenger": ["scavengerItems", "vegetableItems", "fruitItems", "mushroomItems"],
+        "oceanScavenger": ["seaweedItems", "scavengerItems", "fishItems", "vegetableItems"]
     },
     "spawnCategories": {
         "birdSpawnSettings": {
@@ -292,955 +105,656 @@
     },
     "mobConfig": {
         "SPARROW": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
                 "biomeGroups": [],
-                "otherBiomeKeys": [
-                    "forests"
-                ]
+                "otherBiomeKeys": ["all"]
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "COTTONBIRD": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "mountains",
-                    "snowy"
-                ],
+                "biomeGroups": ["mountains", "snowy"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "WHITE_EYE": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "swamps"
-                ],
+                "biomeGroups": ["temperate", "jungles", "swamps"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "FLYCATCHER": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "deserts"
-                ],
+                "biomeGroups": ["temperate", "jungles", "deserts"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "LARK": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
                 "biomeGroups": [],
-                "otherBiomeKeys": [
-                    "bird"
-                ]
+                "otherBiomeKeys": ["all"]
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "ROBIN": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate"
-                ],
+                "biomeGroups": ["temperate"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "CHICKADEE": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "forests",
-                    "cold",
-                    "snowy",
-                    "mountains"
-                ],
+                "biomeGroups": ["forests", "cold", "snowy", "mountains"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "TOWHEE": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "mountains",
-                    "snowy",
-                    "cold"
-                ],
+                "biomeGroups": ["mountains", "snowy", "cold"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "WREN": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles"
-                ],
+                "biomeGroups": ["temperate", "jungles"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "MEADOWLARK": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "deserts",
-                    "cold"
-                ],
+                "biomeGroups": ["deserts", "cold"],
                 "otherBiomeKeys": []
             },
             "spawnWeight": 3,
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "ORIOLE": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "deserts",
-                    "jungles"
-                ],
+                "biomeGroups": ["deserts", "jungles"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "BLUEBIRD": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "mountains",
-                    "deserts"
-                ],
+                "biomeGroups": ["temperate", "mountains", "deserts"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "GOLDFINCH": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "mountains",
-                    "cold"
-                ],
+                "biomeGroups": ["temperate", "mountains", "cold"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "PHOEBE": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "mountains",
-                    "cold",
-                    "snowy"
-                ],
+                "biomeGroups": ["temperate", "mountains", "cold", "snowy"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "SWALLOW": {
-            "spawnCategory": "birdSpawnSettings",
+            "spawnCategory" : "birdSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "swamps",
-                    "jungles"
-                ],
+                "biomeGroups": ["swamps", "jungles"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bird"
-                ],
+                "itemGroups": ["bird"],
                 "otherItemKeys": []
             }
         },
         "CRICKET": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate"
-                ],
+                "biomeGroups": ["temperate"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "loudness": 100,
             "breedingItems": {
-                "itemGroups": [
-                    "bug"
-                ],
+                "itemGroups": ["bug"],
                 "otherItemKeys": []
             }
         },
         "GLASSWING_BUTTERFLY": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "swamps",
-                    "deserts"
-                ],
+                "biomeGroups": ["temperate", "jungles", "swamps", "deserts"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "nectar"
-                ],
+                "itemGroups": ["nectar"],
                 "otherItemKeys": []
             }
         },
         "MONARCH_BUTTERFLY": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "swamps",
-                    "warmForests"
-                ],
+                "biomeGroups": ["temperate", "jungles", "swamps", "warmForests"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "nectar"
-                ],
+                "itemGroups": ["nectar"],
                 "otherItemKeys": []
             }
         },
         "MORPHO_BUTTERFLY": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "jungles",
-                    "swamps"
-                ],
+                "biomeGroups": ["jungles", "swamps"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "nectar"
-                ],
+                "itemGroups": ["nectar"],
                 "otherItemKeys": []
             }
         },
         "TIGER_BUTTERFLY": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "swamps",
-                    "warmForests"
-                ],
+                "biomeGroups": ["temperate", "jungles", "swamps", "warmForests"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "nectar"
-                ],
+                "itemGroups": ["nectar"],
                 "otherItemKeys": []
             }
         },
         "SPICEBUSH_BUTTERFLY": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "swamps",
-                    "forests"
-                ],
+                "biomeGroups": ["temperate", "jungles", "swamps", "forests"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "nectar"
-                ],
+                "itemGroups": ["nectar"],
                 "otherItemKeys": []
             }
         },
         "DRAGONFLY": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "swamps",
-                    "deserts"
-                ],
+                "biomeGroups": ["temperate", "jungles", "swamps", "deserts"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "bug"
-                ],
+                "itemGroups": ["bug"],
                 "otherItemKeys": []
             }
         },
         "LADYBUG": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "swamps"
-                ],
+                "biomeGroups": ["temperate", "jungles", "swamps"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "bug"
-                ],
+                "itemGroups": ["bug"],
                 "otherItemKeys": []
             }
         },
         "SUNFLOWERBEETLE": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "deserts"
-                ],
+                "biomeGroups": ["temperate", "jungles", "deserts"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "bug"
-                ],
+                "itemGroups": ["bug"],
                 "otherItemKeys": []
             }
         },
         "ANT": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "deserts",
-                    "swamps"
-                ],
+                "biomeGroups": ["temperate", "jungles", "deserts", "swamps"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "bug"
-                ],
+                "itemGroups": ["bug"],
                 "otherItemKeys": []
             }
         },
         "SPIDER": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "deserts"
-                ],
+                "biomeGroups": ["temperate", "jungles", "deserts"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "insectItems"
-                ],
+                "itemGroups": ["insectItems"],
                 "otherItemKeys": []
             }
         },
         "SNAIL": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "swamps"
-                ],
+                "biomeGroups": ["temperate", "jungles", "swamps"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "Speed": 0.01,
             "breedingItems": {
-                "itemGroups": [
-                    "insectItems"
-                ],
+                "itemGroups": ["insectItems"],
                 "otherItemKeys": []
             }
         },
         "STICKBUG": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "swamps"
-                ],
+                "biomeGroups": ["temperate", "jungles", "swamps"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "insectItems"
-                ],
+                "itemGroups": ["insectItems"],
                 "otherItemKeys": []
             }
         },
         "JUNEBEETLE": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "swamps",
-                    "deserts"
-                ],
+                "biomeGroups": ["temperate", "jungles", "swamps", "deserts"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "insectItems"
-                ],
+                "itemGroups": ["insectItems"],
                 "otherItemKeys": []
             }
         },
         "RHINOBEETLE": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "forests"
-                ],
+                "biomeGroups": ["temperate", "jungles", "forests"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "insectItems"
-                ],
+                "itemGroups": ["insectItems"],
                 "otherItemKeys": []
             }
         },
         "STAGHORNBEETLE": {
-            "spawnCategory": "bugSpawnSettings",
+            "spawnCategory" : "bugSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "jungles",
-                    "forests"
-                ],
+                "biomeGroups": ["temperate", "jungles", "forests"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "insectItems"
-                ],
+                "itemGroups": ["insectItems"],
                 "otherItemKeys": []
             }
         },
         "BADGER": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "mountains",
-                    "forests"
-                ],
+                "biomeGroups": ["mountains", "forests"],
                 "otherBiomeKeys": []
             },
             "health": 10,
             "breedingItems": {
-                "itemGroups": [
-                    "omnivore"
-                ],
+                "itemGroups": ["omnivore"],
                 "otherItemKeys": []
             }
         },
         "PORCUPINE": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "mountains",
-                    "forests"
-                ],
+                "biomeGroups": ["mountains", "forests"],
                 "otherBiomeKeys": []
             },
             "health": 10,
             "breedingItems": {
-                "itemGroups": [
-                    "herbivore"
-                ],
+                "itemGroups": ["herbivore"],
                 "otherItemKeys": []
             }
         },
         "BEAVER": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "swamps"
-                ],
+                "biomeGroups": ["swamps"],
                 "otherBiomeKeys": []
             },
             "health": 10,
             "breedingItems": {
-                "itemGroups": [
-                    "herbivore"
-                ],
+                "itemGroups": ["herbivore"],
                 "otherItemKeys": []
             }
         },
         "ARMADILLO": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "deserts"
-                ],
+                "biomeGroups": ["deserts"],
                 "otherBiomeKeys": []
             },
             "health": 10,
             "breedingItems": {
-                "itemGroups": [
-                    "scavenger"
-                ],
+                "itemGroups": ["scavenger"],
                 "otherItemKeys": []
             }
         },
         "ANTEATER": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "deserts",
-                    "jungles"
-                ],
+                "biomeGroups": ["deserts", "jungles"],
                 "otherBiomeKeys": []
             },
             "health": 10,
             "breedingItems": {
-                "itemGroups": [
-                    "insectItems"
-                ],
+                "itemGroups": ["insectItems"],
                 "otherItemKeys": []
             }
         },
         "POSSUM": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "mountains",
-                    "forests"
-                ],
+                "biomeGroups": ["temperate", "mountains", "forests"],
                 "otherBiomeKeys": []
             },
             "health": 10,
             "breedingItems": {
-                "itemGroups": [
-                    "scavenger"
-                ],
+                "itemGroups": ["scavenger"],
                 "otherItemKeys": []
             }
         },
         "CAPYBARA": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "jungles"
-                ],
+                "biomeGroups": ["jungles"],
                 "otherBiomeKeys": []
             },
             "health": 15,
             "breedingItems": {
-                "itemGroups": [
-                    "grassItems",
-                    "vegetableItems",
-                    "fruitItems"
-                ],
+                "itemGroups": ["grassItems", "vegetableItems", "fruitItems"],
                 "otherItemKeys": []
             }
         },
         "BOAR": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "oldForests"
-                ],
+                "biomeGroups": ["oldForests"],
                 "otherBiomeKeys": []
             },
             "health": 15,
             "breedingItems": {
-                "itemGroups": [
-                    "heartyHerbivore"
-                ],
+                "itemGroups": ["heartyHerbivore"],
                 "otherItemKeys": []
             }
         },
         "DEER": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "oldForests"
-                ],
+                "biomeGroups": ["oldForests"],
                 "otherBiomeKeys": []
             },
             "health": 15,
             "breedingItems": {
-                "itemGroups": [
-                    "herbivore"
-                ],
+                "itemGroups": ["herbivore"],
                 "otherItemKeys": []
             }
         },
         "MONKEY": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "jungles"
-                ],
+                "biomeGroups": ["jungles"],
                 "otherBiomeKeys": []
             },
             "health": 15,
             "breedingItems": {
-                "itemGroups": [
-                    "fruitItems"
-                ],
-                "otherItemKeys": [
-                    "egg"
-                ]
+                "itemGroups": ["fruitItems"],
+                "otherItemKeys": ["egg"]
             }
         },
         "IGUANA": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "deserts",
-                    "jungles"
-                ],
+                "biomeGroups": ["deserts","jungles"],
                 "otherBiomeKeys": []
             },
             "health": 10,
             "breedingItems": {
-                "itemGroups": [
-                    "leafyHerbivore",
-                    "fruitItems"
-                ],
+                "itemGroups": ["leafyHerbivore","fruitItems"],
                 "otherItemKeys": []
             }
         },
         "CRAB": {
-            "spawnCategory": "beachSpawnSettings",
+            "spawnCategory" : "beachSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "shores"
-                ],
+                "biomeGroups": ["shores"],
                 "otherBiomeKeys": []
             },
             "health": 10,
             "breedingItems": {
-                "itemGroups": [
-                    "oceanScavenger"
-                ],
+                "itemGroups": ["oceanScavenger"],
                 "otherItemKeys": []
             }
         },
         "HERMITCRAB": {
-            "spawnCategory": "beachSpawnSettings",
+            "spawnCategory" : "beachSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "shores"
-                ],
+                "biomeGroups": ["shores"],
                 "otherBiomeKeys": []
             },
             "health": 10,
             "breedingItems": {
-                "itemGroups": [
-                    "oceanScavenger"
-                ],
+                "itemGroups": ["oceanScavenger"],
                 "otherItemKeys": []
             }
         },
         "HEDGEHOG": {
-            "spawnCategory": "smallAnimalSpawnSettings",
+            "spawnCategory" : "smallAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "forests"
-                ],
+                "biomeGroups": ["temperate","forests"],
                 "otherBiomeKeys": []
             },
             "health": 10,
             "breedingItems": {
-                "itemGroups": [
-                    "insectItems",
-                    "heartyHerbivore"
-                ],
+                "itemGroups": ["insectItems", "heartyHerbivore"],
                 "otherItemKeys": []
             }
         },
         "FERRET": {
-            "spawnCategory": "smallAnimalSpawnSettings",
+            "spawnCategory" : "smallAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "temperate",
-                    "mountains",
-                    "forests",
-                    "cold",
-                    "snowy"
-                ],
+                "biomeGroups": ["temperate", "mountains", "forests", "cold","snowy"],
                 "otherBiomeKeys": []
             },
             "health": 10,
             "breedingItems": {
-                "itemGroups": [
-                    "carnivore"
-                ],
+                "itemGroups": ["carnivore"],
                 "otherItemKeys": []
             }
         },
         "HAMSTER": {
-            "spawnCategory": "smallAnimalSpawnSettings",
+            "spawnCategory" : "smallAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "deserts"
-                ],
+                "biomeGroups": ["deserts"],
                 "otherBiomeKeys": []
             },
             "health": 10,
             "breedingItems": {
-                "itemGroups": [
-                    "seedItems",
-                    "heartyHerbivore"
-                ],
+                "itemGroups": ["seedItems", "heartyHerbivore"],
                 "otherItemKeys": []
             }
         },
         "CHAMELEON": {
-            "spawnCategory": "smallAnimalSpawnSettings",
+            "spawnCategory" : "smallAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "deserts",
-                    "jungles"
-                ],
+                "biomeGroups": ["deserts", "jungles"],
                 "otherBiomeKeys": []
             },
             "health": 7,
             "breedingItems": {
-                "itemGroups": [
-                    "insectItems"
-                ],
+                "itemGroups": ["insectItems"],
                 "otherItemKeys": []
             }
         },
         "GECKO": {
-            "spawnCategory": "smallAnimalSpawnSettings",
+            "spawnCategory" : "smallAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "deserts",
-                    "jungles",
-                    "temperate"
-                ],
+                "biomeGroups": ["deserts", "jungles", "temperate"],
                 "otherBiomeKeys": []
             },
             "health": 4,
             "breedingItems": {
-                "itemGroups": [
-                    "insectItems"
-                ],
+                "itemGroups": ["insectItems"],
                 "otherItemKeys": []
             }
         },
         "GRASS_SNAKE": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "jungles",
-                    "temperate"
-                ],
+                "biomeGroups": ["jungles", "temperate"],
                 "otherBiomeKeys": []
             },
             "health": 8,
             "breedingItems": {
-                "itemGroups": [
-                    "insectItems"
-                ],
+                "itemGroups": ["insectItems"],
                 "otherItemKeys": []
             }
         },
         "KING_SNAKE": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "jungles",
-                    "temperate",
-                    "swamps",
-                    "deserts"
-                ],
+                "biomeGroups": ["jungles", "temperate", "swamps", "deserts"],
                 "otherBiomeKeys": []
             },
             "health": 10,
             "breedingItems": {
-                "itemGroups": [
-                    "carnivore"
-                ],
+                "itemGroups": ["carnivore"],
                 "otherItemKeys": []
             }
         },
         "MILK_SNAKE": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "jungles",
-                    "swamps",
-                    "deserts"
-                ],
+                "biomeGroups": ["jungles", "swamps", "deserts"],
                 "otherBiomeKeys": []
             },
             "health": 8,
             "breedingItems": {
-                "itemGroups": [
-                    "insectItems",
-                    "carnivore"
-                ],
+                "itemGroups": ["insectItems","carnivore"],
                 "otherItemKeys": []
             }
         },
         "PYTHON": {
-            "spawnCategory": "mediumAnimalSpawnSettings",
+            "spawnCategory" : "mediumAnimalSpawnSettings",
             "spawnBiomes": {
-                "biomeGroups": [
-                    "jungles",
-                    "swamps",
-                    "deserts"
-                ],
+                "biomeGroups": ["jungles", "swamps", "deserts"],
                 "otherBiomeKeys": []
             },
             "health": 15,
             "breedingItems": {
-                "itemGroups": [
-                    "carnivore"
-                ],
+                "itemGroups": ["carnivore"],
                 "otherItemKeys": []
             }
         }
