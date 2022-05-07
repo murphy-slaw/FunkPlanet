@@ -1,8 +1,5 @@
 {
     "values": {
-        "minecraft:player": {
-            "minecraft:generic.max_health": 1.0
-        },
         "minecraft:cow": {
             "minecraft:generic.max_health": 50,
             "minecraft:generic.attack_knockback": 1.5
