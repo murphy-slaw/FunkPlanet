@@ -261,6 +261,10 @@ file = "config/paxi/datapacks/To hell with flowers!/data/terralith/worldgen/conf
 hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
 [[files]]
+file = "config/paxi/datapacks/To hell with flowers!/data/testing/attributes/entity_types.json"
+hash = "495d023c000620ec2aa05b7fe3015e6182b1d3c6d9e26e0c70e684c97efdffdf"
+
+[[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/testing/worldgen/configured_feature/bone_tree.json"
 hash = "32e315a27d215cc056b341c75ea2aef086c0f9b8b3c5af9576943eb903d3be02"
 
