@@ -2,7 +2,7 @@
     "values": {
         "minecraft:cow": {
             "minecraft:generic.max_health": 50,
-            "minecraft:generic.attack_knockback": 1.5
+            "minecraft:generic.movement_speed": 1.2
         }
     }
 }
