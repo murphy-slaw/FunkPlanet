@@ -121,6 +121,58 @@ file = "config/paxi/datapacks/No Villages/pack.mcmeta"
 hash = "f5e111ffc39a64c7e0cb2287ed4acc90e08a52a81950a7b11e16b19cebd6a6e0"
 
 [[files]]
+file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/structure_set/abandoned_church.json"
+hash = "1c5610af20b7652c8480d313fc6a39ead566d3207f4a9dda7008f30423d930e5"
+
+[[files]]
+file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/structure_set/barn_house.json"
+hash = "34085c6e00814f608168446e910b25bf4bd1a95181a56dcd7c9eba84de7eb2da"
+
+[[files]]
+file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/structure_set/big_pyramid.json"
+hash = "87dc94febea6d08c14ed954ed07b54032434d30da6c0981ce63f08371c3c5dd0"
+
+[[files]]
+file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/structure_set/ice_tower.json"
+hash = "6919f705bd244c9b92f9db51aa274ebd1cd009af986f1c0eb69ec679dd26066c"
+
+[[files]]
+file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/structure_set/jungle_pyramid.json"
+hash = "4957b48951a4127ec1e8e031af3e97a37b702019fd3aa6ef57b6f7af3bd3346b"
+
+[[files]]
+file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/structure_set/killer_bunny_castle.json"
+hash = "7b2a00f5ec6a162aae65b2da9d0a334552c01338fbce4dba4c70bcd4325e762b"
+
+[[files]]
+file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/structure_set/lighthouse.json"
+hash = "4e5f257c367225adaca6ba625100bf2bf94992a1e5d1fed0bb8c69507e374732"
+
+[[files]]
+file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/structure_set/moai.json"
+hash = "2abc869ec99c15af0bff68638157521c117c4a06892ea37779bd00d34692566f"
+
+[[files]]
+file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/structure_set/pillager_factory.json"
+hash = "74af8746f927317fbb19c3f7bcff15bc16c28707ec8e60fa5bcf8f272c5c999a"
+
+[[files]]
+file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/structure_set/pirate_ship.json"
+hash = "8a6e106b4c21c107c965acfedef5c4069df04a2b88eba346902521333ffb8586"
+
+[[files]]
+file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/structure_set/tavern.json"
+hash = "c769fb5e0e373fa84d73286d8f4925a509f7452f119ffbc14caaadb4aa323fb0"
+
+[[files]]
+file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/structure_set/the_castle_in_the_sky.json"
+hash = "512c2bf20c7aff9b5de41b9d010df1b0efb9be16cbdfa89801ed1cb4fa993680"
+
+[[files]]
+file = "config/paxi/datapacks/Placement Tweaks/pack.mcmeta"
+hash = "cd81f8cfcfe7950369267565d74d63905594c8d706735c9ff87766139c9e426d"
+
+[[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/biome/savanna.json"
 hash = "87d1d71f62b2adf0c7d7d952283a265cb4d9d1e0e3c4add613975a214fa8ab40"
 
