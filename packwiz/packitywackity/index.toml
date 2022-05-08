@@ -173,10 +173,6 @@ file = "config/paxi/datapacks/Placement Tweaks/pack.mcmeta"
 hash = "cd81f8cfcfe7950369267565d74d63905594c8d706735c9ff87766139c9e426d"
 
 [[files]]
-file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/biome/savanna.json"
-hash = "87d1d71f62b2adf0c7d7d952283a265cb4d9d1e0e3c4add613975a214fa8ab40"
-
-[[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/configured_feature/flower_default.json"
 hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
@@ -215,22 +211,6 @@ hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/configured_feature/patch_sunflower.json"
 hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
-
-[[files]]
-file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/noise/continentalness.json"
-hash = "31e4245e73aa48090cbc0fe9ab18911459587f3f67e668c8c47fae5f838c445a"
-
-[[files]]
-file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/noise/erosion.json"
-hash = "7d88bf9460787588dbcea56a1e1d3c6de67e802dc142526777bf9a0a1a115f45"
-
-[[files]]
-file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/noise/temperature.json"
-hash = "7abd381620b283473fa12dcb7c4b098cfc42405b590d82e9862b4665b7957dfd"
-
-[[files]]
-file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/noise/vegetation.json"
-hash = "d1ae4dc8e0bea8ea0ab3d6a826121b97aa357d194a5777ebfa07c28a52d3bcb8"
 
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/terralith/worldgen/configured_feature/alpha/flowers.json"
