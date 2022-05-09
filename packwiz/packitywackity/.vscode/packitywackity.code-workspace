@@ -1,0 +1,48 @@
+{
+	"folders": [
+		{
+			"name": "Placement Tweaks",
+			"path": "..\\config\\paxi\\datapacks\\Placement Tweaks"
+		},
+		{
+			"name": "To hell with flowers!",
+			"path": "..\\config\\paxi\\datapacks\\To hell with flowers!"
+		},
+		{
+			"name": "No Villages",
+			"path": "..\\config\\paxi\\datapacks\\No Villages"
+		},
+		{
+			"name": "packitywackity",
+			"path": ".."
+		},
+		{
+			"name": "terralith-v2-2-1a",
+			"path": "..\\..\\..\\..\\MCStuff\\terralith-v2-2-1a"
+		},
+		{
+			"name": "Towers_Of_The_Wild_Reworked_v3.0.0_Fabric_Waystones",
+			"path": "..\\..\\..\\..\\MCStuff\\Towers_Of_The_Wild_Reworked_v3.0.0_Fabric_Waystones"
+		},
+		{
+			"name": "mostructures",
+			"path": "..\\..\\..\\..\\src\\mostructures"
+		},
+		{
+			"name": "packity-mod",
+			"path": "..\\..\\..\\..\\src\\packity-mod"
+		},
+		{
+			"name": "datapacks",
+			"path": "..\\..\\..\\datapacks"
+		},
+		{
+			"name": "vanilla_worldgen",
+			"path": "..\\..\\..\\..\\MCStuff\\vanilla_worldgen"
+		},
+		{
+			"name": "terralith",
+			"path": "..\\..\\..\\..\\MCStuff\\terralith"
+		}
+	]
+}
