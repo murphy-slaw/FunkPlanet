@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/WildlifeConfig.json"
-hash = "0b746f8f634064d9fb0a5bf9d51cd31ee6d081894e34b1b5c032872693064b84"
+hash = "0bcfa81457d3c1c230d0428601488120963ff8db6a748b00cdc9065b2c9a5dee"
 
 [[files]]
 file = "config/endemic.json"
@@ -163,6 +163,14 @@ hash = "c769fb5e0e373fa84d73286d8f4925a509f7452f119ffbc14caaadb4aa323fb0"
 [[files]]
 file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/structure_set/the_castle_in_the_sky.json"
 hash = "512c2bf20c7aff9b5de41b9d010df1b0efb9be16cbdfa89801ed1cb4fa993680"
+
+[[files]]
+file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/template_pool/barn_house/barnhouses.json"
+hash = "800ad6c750fcf62c18c2913beee29b3c9706818bde68dbda8309600b721b5a57"
+
+[[files]]
+file = "config/paxi/datapacks/Placement Tweaks/data/mostructures/worldgen/template_pool/tavern/taverns.json"
+hash = "036cb4b73a5ad1a63100b69e494dd2bf9cd4365990da96d6835bbbb6ad8d9d68"
 
 [[files]]
 file = "config/paxi/datapacks/Placement Tweaks/pack.mcmeta"
