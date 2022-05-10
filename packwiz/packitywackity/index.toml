@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vscode/tasks.json"
-hash = "762eb7c48e5cc1d00755768de5b6bba3252134216d23e758804484eb20e041d7"
-
-[[files]]
 file = "config/WildlifeConfig.json"
 hash = "0b746f8f634064d9fb0a5bf9d51cd31ee6d081894e34b1b5c032872693064b84"
 
@@ -311,6 +307,30 @@ hash = "b37c3c0ce7d8d173d9d4795a44f28c0ad515b7b75bde10e69e41e3e8f3c0fb26"
 [[files]]
 file = "config/yigd.toml"
 hash = "3f4af7efb43db5545ba286382dc837ccc727fec403b60e4d7bc63b8ff71e76f8"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "4475adc8b13db395936be34d3bf8541d75803101936d84a8370319c01a6060f8"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "5e667db89e0fb2e2f1500ce3716716213dcb3ffa8233e7a9567c0f44bb64d322"
+
+[[files]]
+file = "kubejs/data/incendium/functions/technical/load_message.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/terralith/functions/toast.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/startup_scripts/worldgen.js"
+hash = "a4ac579f6e5b87c367b834b065b6080adc5c5c4068c6fe056c8f7b390cab950d"
 
 [[files]]
 file = "mods/ambient-environment.toml"
