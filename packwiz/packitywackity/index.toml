@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "cc31d30724f40c4168c01bbef66785cf2a614b8c6bc5ddaf0e362406dbe1842e"
+hash = "fd6f7453e6b6a66b26d32fc6da52d2545e7aadb1b7ccdacb7674ac3d4066a28a"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-makeover.toml"
-hash = "ec88263fecc41c1c4425670deec04725238cf91cb9c2b2310c25340071f6be32"
+hash = "c545cdcd2d22d95b67dc6a02f3ce09a365d86f9d9df6eeea8c927a25027fa499"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "3894f56dbf821aebef6d4149ef30474d19c09ec9d27b8ee6f971ddfaa9057aaf"
+hash = "25a7ae59066ec8104c5da601dc26923f7d0b7a9906d4c4fe9643222bbf4815aa"
 metafile = true
 
 [[files]]
@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "1a1d3f1b6b1b3fcebcd986dc0f6635d3ae3ecb18375403190e381e4f54881b00"
+hash = "17d349130cf0e827c30d5ae07f9b6d1b7c7886533d045f76df2bfe87415a9973"
 metafile = true
 
 [[files]]
@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.toml"
-hash = "f3e50769ad7c870c8983a860aa90cca78fafccd661effeb52ad190140be30c84"
+hash = "b3d3b75359cd29296832ab2686510992fa6f244b19cbff3b25998b13c1ab0f91"
 metafile = true
 
 [[files]]
@@ -731,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.toml"
-hash = "3cbf034224515da2016e1eeec4d65d82dfc7fbb05b90f6a6626a49c57642ca73"
+hash = "25614657c01132c01a82c7f4651d435191e91e00360af8b0476c7ac0a970a45d"
 metafile = true
 
 [[files]]
@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "60e343e928538a577ca751e223cf898eb02dddc38e3ec3fe5e25d737be6507d9"
+hash = "ec08b02e677c19d4a2754ccfe4bbdbabcff04aa042d3dc414d8658a43ec8f41f"
 metafile = true
 
 [[files]]
@@ -836,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.toml"
-hash = "d3ddc393b2736a5624bcbb51ed08e4d6fcf455bc9b58492f0ee3e64a3476f7a7"
+hash = "78cdc0c587d0e5fc1be54c013264c31a9731e0f676f145a7ba2d274162c841bf"
 metafile = true
 
 [[files]]
