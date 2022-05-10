@@ -473,6 +473,11 @@ hash = "d1f9c38dd3b3fc673c32f232e72b177e4f5ce19d712593957518fcdd499791ca"
 metafile = true
 
 [[files]]
+file = "mods/datapack-portals.toml"
+hash = "9100bbbb30b386649f671627293e02d4a2b53133c5831063cef75f66aaa1178d"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.toml"
 hash = "6a6b560b0f65925f29a2a1ece8c65cb664d687b4b43e1ef4fd1e6420f6f8bca0"
 metafile = true
