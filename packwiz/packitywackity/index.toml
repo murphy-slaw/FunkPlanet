@@ -185,6 +185,10 @@ file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/conf
 hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
 [[files]]
+file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/configured_feature/flower_forest_flowers.json"
+hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
+
+[[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/configured_feature/flower_meadow.json"
 hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
