@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "17d349130cf0e827c30d5ae07f9b6d1b7c7886533d045f76df2bfe87415a9973"
+hash = "4e1ebd47aeb4941fbeb54c5d40b33e89ccb681c7707ff6f70b2aca4f63242228"
 metafile = true
 
 [[files]]
