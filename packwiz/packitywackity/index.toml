@@ -678,11 +678,6 @@ hash = "ef29ef9cb12cf9f365ee726c7a023f6cf787e29eeae898e3eeedb4208b9fcf45"
 metafile = true
 
 [[files]]
-file = "mods/no-null-processors.toml"
-hash = "35c3b3bed1ba22511a149757103c84480c9cd61574c23821a86d9dc6ced61003"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.toml"
 hash = "e39babb643a63c6011a03a98222be83caa3f7408033c5346fd8fb9a7e055ee08"
 metafile = true
@@ -861,6 +856,10 @@ metafile = true
 file = "mods/yungs-extras-fabric.toml"
 hash = "5ffcf0294b22212a582689ac14582724c9db20461639fe7175766b3319d49f6b"
 metafile = true
+
+[[files]]
+file = "prelaunch.txt"
+hash = "1e1effbb01b01869cc8b5b0f8a9503b30e5ac939928776c154fa23ab67c60e58"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
