@@ -1,12 +1,12 @@
 name = "Packitywackity"
 author = "Kevin Murphy"
-version = "1.0.7"
+version = "1.0.8"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1d9508760fbe6b3f9c732d972dc10a15b9a485ddbc1304dfeba313a08a2400a0"
+hash = "195b4f7af5e1f15193a9817367d0128e51cfb316e244078dce7bb43b695742c1"
 
 [versions]
 fabric = "0.14.4"
