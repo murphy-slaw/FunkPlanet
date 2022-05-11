@@ -313,6 +313,10 @@ file = "config/paxi/datapacks/To hell with flowers!/pack.mcmeta"
 hash = "304295c861ccc21ec292e6d92888d9cafdb6538e48f0b7bf49d7cdb93cee1f04"
 
 [[files]]
+file = "config/paxi/datapacks/datapack_load_order.json"
+hash = "9e90f070ee246ea7af61b8a2d1c04933ce2270f5c0b21d5415035281680d3f8b"
+
+[[files]]
 file = "config/paxi/datapacks/incendium.toml"
 hash = "d39afd32eb7bc1110f35c08c2575d33494966bd3b4d375203570dd0191d4c773"
 metafile = true
