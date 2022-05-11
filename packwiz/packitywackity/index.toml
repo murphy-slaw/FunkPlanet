@@ -185,6 +185,10 @@ file = "config/paxi/datapacks/SeedFix/data/minecraft/dimension/the_nether.json"
 hash = "591bde23bfeb03ff00d71b544f76f5b60b9b95857148ed9a6859de96dba50d84"
 
 [[files]]
+file = "config/paxi/datapacks/SeedFix/pack.mcmeta"
+hash = "4084c157fe747b848a41b1ab14e3b733414e15e92f517d298d444245e02e0d49"
+
+[[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/configured_feature/flower_default.json"
 hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
