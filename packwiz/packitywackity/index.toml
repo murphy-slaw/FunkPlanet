@@ -318,7 +318,7 @@ hash = "304295c861ccc21ec292e6d92888d9cafdb6538e48f0b7bf49d7cdb93cee1f04"
 
 [[files]]
 file = "config/paxi/datapacks/datapack_load_order.json"
-hash = "9e90f070ee246ea7af61b8a2d1c04933ce2270f5c0b21d5415035281680d3f8b"
+hash = "67434d9e16832576c0af70a7b5a7789ef4632f74055013adf87de80d92ee1472"
 
 [[files]]
 file = "config/paxi/datapacks/incendium.toml"

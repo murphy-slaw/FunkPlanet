@@ -1,10 +1,10 @@
 {
     "loadOrder": [
+        "terralith-v2-2-1a.zip",
+        "incendium-v5-0-3.zip",
         "No Villages",
         "Placement Tweaks",
         "To hell with flowers!",
-        "SeedFix",
-        "terralith-v2-2-1a.zip",
-        "incendium-v5-0-3.zip"
+        "SeedFix"
     ]
 }
