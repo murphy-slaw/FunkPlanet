@@ -177,6 +177,14 @@ file = "config/paxi/datapacks/Placement Tweaks/pack.mcmeta"
 hash = "cd81f8cfcfe7950369267565d74d63905594c8d706735c9ff87766139c9e426d"
 
 [[files]]
+file = "config/paxi/datapacks/SeedFix/data/minecraft/dimension/overworld.json"
+hash = "de531ba743ffeb2945635e8c091631bf1bf7a5df9516b9e8ee03326385a8f27e"
+
+[[files]]
+file = "config/paxi/datapacks/SeedFix/data/minecraft/dimension/the_nether.json"
+hash = "591bde23bfeb03ff00d71b544f76f5b60b9b95857148ed9a6859de96dba50d84"
+
+[[files]]
 file = "config/paxi/datapacks/To hell with flowers!/data/minecraft/worldgen/configured_feature/flower_default.json"
 hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 
@@ -303,6 +311,16 @@ hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/pack.mcmeta"
 hash = "304295c861ccc21ec292e6d92888d9cafdb6538e48f0b7bf49d7cdb93cee1f04"
+
+[[files]]
+file = "config/paxi/datapacks/incendium.toml"
+hash = "d39afd32eb7bc1110f35c08c2575d33494966bd3b4d375203570dd0191d4c773"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/terralith.toml"
+hash = "434379bda39c3bdbbf9d296ed3cb35941983db3137f48d5950eb78d530cedace"
+metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/VanillaTweaks_r304129.zip"
@@ -599,11 +617,6 @@ hash = "388338abe32cff2b10e21030b9bb983bbee3584ceae6f810d67764ae4843c503"
 metafile = true
 
 [[files]]
-file = "mods/incendium.toml"
-hash = "6dbe600e847b1f126e5d88567c97d7f323e7dad7153ad795a3a4a9a327ecfc3d"
-metafile = true
-
-[[files]]
 file = "mods/indium.toml"
 hash = "fab378c0172e0251334a08f0c6013b087847d3c6aa3eadc40de2e77b33fbec5e"
 metafile = true
@@ -764,6 +777,10 @@ hash = "5b8507d654d47aa962c9ba0d46a761b92d339fb9cc83eb668a63ef8618c82446"
 metafile = true
 
 [[files]]
+file = "mods/seedfix-1.0.2.jar"
+hash = "4a69c42abf9fc2cd9e1a12553e9f25ec3c230d6a380b3d534d36801b4ba020b8"
+
+[[files]]
 file = "mods/servercore.toml"
 hash = "433d8e9beee7143f2d69087087c16b88fb664fbd7bf9d24a2420c34d546a9664"
 metafile = true
@@ -796,11 +813,6 @@ metafile = true
 [[files]]
 file = "mods/stylish-effects-fabric.toml"
 hash = "53d1ed9ef0f16ed39c0a36e7cf779eff98e3376fb333620179b465dfb403b814"
-metafile = true
-
-[[files]]
-file = "mods/terralith.toml"
-hash = "314bb864fbd249ff543bb842db256c9a34a4f00645086e2133abe02284f855b9"
 metafile = true
 
 [[files]]

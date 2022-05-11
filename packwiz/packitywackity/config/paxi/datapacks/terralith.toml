@@ -1,0 +1,9 @@
+name = "Terralith"
+filename = "terralith-v2-2-1a.zip"
+side = "both"
+
+[download]
+url = "https://static.planetminecraft.com/files/resource_media/datapack/terralith-v2-2-1a.zip"
+
+hash-format = "sha256"
+hash = "e50ee2ff2e06f4110c0f5a24552750cb011f74062141baf96fde4d34a5c47454"
