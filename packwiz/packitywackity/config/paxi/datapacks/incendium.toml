@@ -1,0 +1,9 @@
+name = "Incendium"
+filename = "incendium-v5-0-3.zip"
+side = "both"
+
+[download]
+url = "https://static.planetminecraft.com/files/resource_media/datapack/incendium-v5-0-3.zip"
+
+hash-format = "sha256"
+hash = "fa8fc4ad967a4f0885625cdad0696fbe37bcdfa71fae46d6647c1083d1ebe073"
