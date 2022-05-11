@@ -81,6 +81,10 @@ file = "config/oxidized_config.json"
 hash = "16479cc1b25062b77ae8fbe46e8bbde901461866d44e9da9d0bad3d923396621"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "67434d9e16832576c0af70a7b5a7789ef4632f74055013adf87de80d92ee1472"
+
+[[files]]
 file = "config/paxi/datapacks/No Villages/data/minecraft/worldgen/structure_set/villages.json"
 hash = "e7a370212f833d882b0674567b7a0046411b32e9cf4a3258ff280f9bff2d073a"
 
@@ -315,10 +319,6 @@ hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
 [[files]]
 file = "config/paxi/datapacks/To hell with flowers!/pack.mcmeta"
 hash = "304295c861ccc21ec292e6d92888d9cafdb6538e48f0b7bf49d7cdb93cee1f04"
-
-[[files]]
-file = "config/paxi/datapacks/datapack_load_order.json"
-hash = "67434d9e16832576c0af70a7b5a7789ef4632f74055013adf87de80d92ee1472"
 
 [[files]]
 file = "config/paxi/datapacks/incendium.toml"
